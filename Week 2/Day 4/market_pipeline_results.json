@@ -1,0 +1,6128 @@
+{
+  "tape_data": [
+    {
+      "price": 100.24835707650561,
+      "size": 72,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.93086784941441,
+      "size": 21,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.54158657809081,
+      "size": 75,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.93792640986362,
+      "size": 24,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.76526280703253,
+      "size": 64,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.27128002179298,
+      "size": 21,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.12098113578301,
+      "size": 89,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.04335987767111,
+      "size": 91,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.73409129489089,
+      "size": 60,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.94126224911433,
+      "size": 15,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.11103945078237,
+      "size": 55,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.61601174902846,
+      "size": 64,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.06110958261134,
+      "size": 21,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.74228216895378,
+      "size": 39,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.69987307494705,
+      "size": 53,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.47371991052331,
+      "size": 84,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.4892239026622,
+      "size": 8,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.91912230680124,
+      "size": 35,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.40342088525546,
+      "size": 4,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.79547404913804,
+      "size": 6,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.33590697555078,
+      "size": 63,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.09843061793457,
+      "size": 90,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.36923328999771,
+      "size": 72,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.08568414059499,
+      "size": 87,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.94217585880588,
+      "size": 80,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.84944815220535,
+      "size": 82,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.76968061452011,
+      "size": 60,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.52856111310946,
+      "size": 41,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.29106139735651,
+      "size": 35,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.44387422979668,
+      "size": 33,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.89641705494772,
+      "size": 41,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.68826130250751,
+      "size": 7,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.24592335522625,
+      "size": 48,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.54982348789241,
+      "size": 23,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.58985817235035,
+      "size": 86,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.55089603027216,
+      "size": 35,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.16342261198501,
+      "size": 3,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.95944052292066,
+      "size": 5,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.61014905967006,
+      "size": 27,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.57805181982803,
+      "size": 79,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.9247330708701,
+      "size": 51,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.51722116405251,
+      "size": 96,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 101.31676411030607,
+      "size": 4,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.48745455559457,
+      "size": 23,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.73894702237075,
+      "size": 36,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.74086489086318,
+      "size": 32,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.59575319855341,
+      "size": 66,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.74912147820773,
+      "size": 45,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.45770105885104,
+      "size": 28,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.16437555482985,
+      "size": 44,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.04853877467401,
+      "size": 92,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.48432249526644,
+      "size": 62,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.42496060203118,
+      "size": 77,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.34433788712444,
+      "size": 3,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.0635061196859,
+      "size": 62,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.37527813860004,
+      "size": 97,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.54650638729755,
+      "size": 59,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.59132292243858,
+      "size": 32,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 98.95420016515637,
+      "size": 62,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.6318702653832,
+      "size": 58,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.40893675610829,
+      "size": 3,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.47269776526659,
+      "size": 56,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.77911698838699,
+      "size": 96,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.95791745740941,
+      "size": 1,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.16901132943757,
+      "size": 90,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.98728559847675,
+      "size": 70,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.61868651789243,
+      "size": 56,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.08432969359664,
+      "size": 17,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.93135449816036,
+      "size": 98,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.70066078234682,
+      "size": 86,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.25621186618581,
+      "size": 73,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.27174434562122,
+      "size": 59,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.39483640237533,
+      "size": 59,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.21574473163152,
+      "size": 19,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.22466828446693,
+      "size": 96,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.034281487403,
+      "size": 52,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.54028788288309,
+      "size": 82,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.77496720250878,
+      "size": 1,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.60837335383188,
+      "size": 23,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.83896924189716,
+      "size": 94,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.40675860868484,
+      "size": 90,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.38456784178302,
+      "size": 60,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.83775452108556,
+      "size": 12,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.89706664145224,
+      "size": 37,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.2799792761581,
+      "size": 99,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.59536362805682,
+      "size": 48,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.30882042275557,
+      "size": 75,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.60853539849006,
+      "size": 72,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.11314413474943,
+      "size": 99,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.42370071628832,
+      "size": 89,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.92850453264624,
+      "size": 35,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.03271490224948,
+      "size": 61,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.3349629672426,
+      "size": 8,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.98735618721443,
+      "size": 67,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.2090592609778,
+      "size": 59,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.05673597710718,
+      "size": 86,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.26980460079183,
+      "size": 51,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.25085218131403,
+      "size": 8,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.0318118950077,
+      "size": 97,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.57632123594368,
+      "size": 64,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.31283367388251,
+      "size": 19,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.57142122179187,
+      "size": 35,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.46455375096944,
+      "size": 92,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.2412362076216,
+      "size": 93,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.88826860733707,
+      "size": 37,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.35700024704605,
+      "size": 93,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 101.059443106115,
+      "size": 60,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.77326837773576,
+      "size": 63,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.52278558417316,
+      "size": 67,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.82892914369731,
+      "size": 18,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.54816489477055,
+      "size": 67,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.83229448796457,
+      "size": 46,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.31755627545098,
+      "size": 23,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.45989956497976,
+      "size": 27,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.17889368017414,
+      "size": 33,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.28039226318411,
+      "size": 43,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.31116531602146,
+      "size": 26,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.53108748004244,
+      "size": 50,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.63352443247814,
+      "size": 7,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.09767323627348,
+      "size": 36,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.72202755111269,
+      "size": 87,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.93613258576806,
+      "size": 92,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.08251139905467,
+      "size": 86,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.57203554108531,
+      "size": 25,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.10575174750976,
+      "size": 58,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.17865227096831,
+      "size": 86,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.55343986318539,
+      "size": 97,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.83259137630263,
+      "size": 53,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.27478817253133,
+      "size": 68,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.36456409656198,
+      "size": 96,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.83188489472413,
+      "size": 40,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.63038178427244,
+      "size": 16,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.94640276241944,
+      "size": 19,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.75689135712344,
+      "size": 58,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.63365389934808,
+      "size": 62,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.71086154301793,
+      "size": 9,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.3998517964721,
+      "size": 1,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.83274938207953,
+      "size": 34,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.88272712014054,
+      "size": 1,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.20249085548048,
+      "size": 61,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.60619904482057,
+      "size": 93,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.96181220607264,
+      "size": 67,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.40821341602773,
+      "size": 86,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.11448521611521,
+      "size": 29,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.34954619093,
+      "size": 33,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.2999483168555,
+      "size": 94,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.81620565196582,
+      "size": 69,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.28492931101968,
+      "size": 34,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.72063664453306,
+      "size": 58,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.28206892441028,
+      "size": 1,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.50924567447602,
+      "size": 24,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.23105173713164,
+      "size": 2,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.17203406570101,
+      "size": 84,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.46311627144252,
+      "size": 12,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.48279882175716,
+      "size": 61,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.10214147100066,
+      "size": 43,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.56850870931673,
+      "size": 40,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.22344507238704,
+      "size": 43,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.55846067076023,
+      "size": 46,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.65031097580176,
+      "size": 35,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.89593887482137,
+      "size": 26,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.75349953267059,
+      "size": 90,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.7053176215279,
+      "size": 68,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.42480104851052,
+      "size": 75,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.9549606834099,
+      "size": 36,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.74705997338285,
+      "size": 73,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.10616419403411,
+      "size": 96,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.38971494785908,
+      "size": 23,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.23296744065054,
+      "size": 55,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.18153480166866,
+      "size": 23,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.68657106523092,
+      "size": 62,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.32899634797332,
+      "size": 89,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.70517357165642,
+      "size": 12,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.85084938841814,
+      "size": 19,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.19602094486629,
+      "size": 95,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.93773737620316,
+      "size": 52,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.57337002898102,
+      "size": 69,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.99285972614746,
+      "size": 12,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.27967363059659,
+      "size": 53,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.13465882712627,
+      "size": 16,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.90683328793945,
+      "size": 76,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.20229144755876,
+      "size": 74,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.58888980221678,
+      "size": 7,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.12184360574595,
+      "size": 13,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.76448084719084,
+      "size": 37,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.11602496867881,
+      "size": 83,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.27595782925134,
+      "size": 17,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.29626811281172,
+      "size": 71,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.12835737639412,
+      "size": 31,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.53473897602044,
+      "size": 61,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 98.98146203251393,
+      "size": 90,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.78501614027134,
+      "size": 39,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.84883787896185,
+      "size": 92,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.99771858550486,
+      "size": 58,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.63556911299045,
+      "size": 77,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.38543155073202,
+      "size": 62,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.27719501376396,
+      "size": 56,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.57793154324114,
+      "size": 38,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.03482633225944,
+      "size": 75,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.49175215317923,
+      "size": 36,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.76404012935492,
+      "size": 47,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.10860323894653,
+      "size": 49,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.55138183431934,
+      "size": 87,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.76291497862542,
+      "size": 75,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.56221910598401,
+      "size": 8,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.88257583320535,
+      "size": 92,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 98.93805213784509,
+      "size": 50,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.73712248915962,
+      "size": 92,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.17087798788857,
+      "size": 33,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.93808541960794,
+      "size": 84,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.55079266432583,
+      "size": 46,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.24595958575325,
+      "size": 6,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.84234248230281,
+      "size": 25,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.13484234478791,
+      "size": 10,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.07102504595879,
+      "size": 5,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.51857923247232,
+      "size": 33,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.14773876221159,
+      "size": 63,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.45132706571667,
+      "size": 86,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.13781757894371,
+      "size": 98,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.13936151748533,
+      "size": 99,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.94568566795557,
+      "size": 6,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.97225752085116,
+      "size": 81,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.75811666146694,
+      "size": 37,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.15622924054897,
+      "size": 74,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.84348814589178,
+      "size": 1,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.20043826373126,
+      "size": 45,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.16658664741992,
+      "size": 32,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.87104891772823,
+      "size": 92,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.1661570059898,
+      "size": 34,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.62575673172172,
+      "size": 3,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.46853626015759,
+      "size": 5,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.71533693472561,
+      "size": 94,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.48980837636893,
+      "size": 47,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.86545278103553,
+      "size": 79,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.74452258694224,
+      "size": 51,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.43891258424006,
+      "size": 38,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.13456344811722,
+      "size": 91,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.7221693959909,
+      "size": 63,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.10006720958671,
+      "size": 88,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 98.91456708593479,
+      "size": 30,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.9529536184635,
+      "size": 29,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.11380116046524,
+      "size": 10,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.23036853378196,
+      "size": 84,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.2930528023617,
+      "size": 69,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.23841956476411,
+      "size": 43,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.60295760362129,
+      "size": 75,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 98.91255874867345,
+      "size": 80,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 101.01607126297961,
+      "size": 75,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.54597297821478,
+      "size": 4,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.28051653373554,
+      "size": 25,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.02185133404214,
+      "size": 32,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.53684100604937,
+      "size": 61,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.30805332700987,
+      "size": 82,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.73563800725015,
+      "size": 42,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.02542128456808,
+      "size": 5,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.75567995730596,
+      "size": 12,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.3907551793567,
+      "size": 26,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.41983748736534,
+      "size": 47,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.06125274916975,
+      "size": 63,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.98673044580129,
+      "size": 61,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.42567713230025,
+      "size": 99,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.68981813873222,
+      "size": 52,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.3998456112926,
+      "size": 14,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.03450275567951,
+      "size": 28,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.89036471907261,
+      "size": 26,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.12623989417179,
+      "size": 59,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.20010948520351,
+      "size": 23,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.60774405309336,
+      "size": 18,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.41511578308746,
+      "size": 64,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.17045420580617,
+      "size": 28,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.59479989064238,
+      "size": 86,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.11166807934818,
+      "size": 44,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.10911136626555,
+      "size": 68,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.45528206118554,
+      "size": 67,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.56301294025745,
+      "size": 86,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.99835203983632,
+      "size": 8,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.48137692283677,
+      "size": 41,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.9048306609582,
+      "size": 6,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.46308877376582,
+      "size": 56,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.95470832023507,
+      "size": 70,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.69145479585656,
+      "size": 4,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.37057897922391,
+      "size": 75,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.58570811449063,
+      "size": 55,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.72741540033408,
+      "size": 3,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.39874210223915,
+      "size": 79,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.07260203014273,
+      "size": 94,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.40792581024455,
+      "size": 66,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.28337796345942,
+      "size": 75,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.62098529900493,
+      "size": 5,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.95711841538359,
+      "size": 26,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.54515352492578,
+      "size": 20,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.31931182491883,
+      "size": 12,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.49374650285036,
+      "size": 38,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.38210219400095,
+      "size": 11,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 101.39188871174453,
+      "size": 33,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.1944971950224,
+      "size": 50,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.69901566055181,
+      "size": 73,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.38012554731768,
+      "size": 9,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 101.19493913610916,
+      "size": 35,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.69779276093415,
+      "size": 95,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.22575797100949,
+      "size": 50,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.32190130085216,
+      "size": 75,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.74579702255312,
+      "size": 1,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.37907974164723,
+      "size": 64,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.26595844610942,
+      "size": 60,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.34817556332624,
+      "size": 35,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.71312309984592,
+      "size": 78,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.65962786271473,
+      "size": 62,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.41012286974313,
+      "size": 18,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.1463614221862,
+      "size": 72,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.27626657617373,
+      "size": 38,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.14777522548958,
+      "size": 23,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.20987403162823,
+      "size": 97,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.00802670932197,
+      "size": 66,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 98.8554693715335,
+      "size": 67,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.71624095872625,
+      "size": 51,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.55906055247797,
+      "size": 29,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.2563024861881,
+      "size": 94,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.41407674519505,
+      "size": 27,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.50494748052483,
+      "size": 33,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.32935256285488,
+      "size": 5,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.54542119145744,
+      "size": 74,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.04351761407334,
+      "size": 47,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.52632931002894,
+      "size": 88,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.6434874819248,
+      "size": 5,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.77768122087718,
+      "size": 47,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.48192515935769,
+      "size": 95,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.48677872376007,
+      "size": 36,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.35904927412584,
+      "size": 20,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.78379721043949,
+      "size": 74,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.11063987554786,
+      "size": 47,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.7480221557446,
+      "size": 46,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.13998431315991,
+      "size": 62,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.43725547635081,
+      "size": 89,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.05469739730245,
+      "size": 68,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.36288331194935,
+      "size": 37,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.60248532365037,
+      "size": 31,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.33621250944755,
+      "size": 9,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.83536314647209,
+      "size": 90,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.76485927663528,
+      "size": 36,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.76328690364976,
+      "size": 54,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.47594150901428,
+      "size": 40,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.70595658684272,
+      "size": 9,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.93329957105423,
+      "size": 52,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.42612324451514,
+      "size": 75,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 98.83963131301094,
+      "size": 2,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.63506277328786,
+      "size": 17,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.5907628914788,
+      "size": 43,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.43729049612655,
+      "size": 24,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.92548166663524,
+      "size": 71,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.40221955505544,
+      "size": 49,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.92139305331777,
+      "size": 63,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.4914039147273,
+      "size": 84,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.25833465432406,
+      "size": 49,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.60044471458737,
+      "size": 61,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.91773217097516,
+      "size": 49,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.66121689363315,
+      "size": 87,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.07464328173624,
+      "size": 56,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.77598643009989,
+      "size": 49,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 98.93795096283492,
+      "size": 93,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.15155283305029,
+      "size": 1,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.58325041496255,
+      "size": 47,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 98.6745150958035,
+      "size": 94,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.54575342596124,
+      "size": 51,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.85068110410074,
+      "size": 55,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.6420950655657,
+      "size": 3,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.25689770679031,
+      "size": 34,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.85281666949085,
+      "size": 97,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.87159148603713,
+      "size": 57,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.5121432908897,
+      "size": 67,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.01278566820471,
+      "size": 72,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.29457473479711,
+      "size": 67,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.38893609555403,
+      "size": 34,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.35649921508619,
+      "size": 96,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.35547998410175,
+      "size": 16,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.22213165574301,
+      "size": 37,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.67138334094125,
+      "size": 48,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.53132215888834,
+      "size": 7,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.1651104139658,
+      "size": 2,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.88234346713136,
+      "size": 47,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.37924938452544,
+      "size": 2,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.59184729547258,
+      "size": 87,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.37817578464369,
+      "size": 38,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.29348782732912,
+      "size": 94,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.12326529187467,
+      "size": 86,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.72753888252055,
+      "size": 24,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.98118264878758,
+      "size": 87,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.55165094100826,
+      "size": 96,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 101.13923936409421,
+      "size": 9,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 98.60799788559899,
+      "size": 66,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.32082614035693,
+      "size": 22,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.76528054329523,
+      "size": 4,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.35577631012134,
+      "size": 87,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.05040871112702,
+      "size": 75,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.18520350701183,
+      "size": 17,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.27593182765474,
+      "size": 25,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.76542613990253,
+      "size": 86,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.26346870631589,
+      "size": 27,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.45568809790228,
+      "size": 98,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.54172708761229,
+      "size": 53,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.59308909116206,
+      "size": 85,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.12856906504699,
+      "size": 62,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.07260709792035,
+      "size": 54,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.50520847121263,
+      "size": 65,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.0736039146848,
+      "size": 29,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.88872926391443,
+      "size": 11,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.41220769412872,
+      "size": 59,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.93769310932826,
+      "size": 99,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 101.04065732838257,
+      "size": 22,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.84772318075638,
+      "size": 56,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.1488801254592,
+      "size": 83,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.14022949664388,
+      "size": 81,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.75993870510186,
+      "size": 73,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 101.14923443086742,
+      "size": 40,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.8274891878683,
+      "size": 42,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.64786043470505,
+      "size": 39,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.24986881005606,
+      "size": 44,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.26629755468528,
+      "size": 94,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.11856653556448,
+      "size": 44,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.5720676013082,
+      "size": 49,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.33186860694401,
+      "size": 47,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.50507073021431,
+      "size": 62,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.19009892550298,
+      "size": 21,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.30529287264191,
+      "size": 87,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.41696107727445,
+      "size": 25,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.22959003961422,
+      "size": 89,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.21480910956629,
+      "size": 23,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.10384384358156,
+      "size": 85,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.45947172979587,
+      "size": 48,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.52657642666645,
+      "size": 59,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.32844168311217,
+      "size": 39,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.39582457396139,
+      "size": 18,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.29742003881778,
+      "size": 60,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.25051667175867,
+      "size": 98,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.47875756288643,
+      "size": 55,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.63896341461908,
+      "size": 39,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.08771053765005,
+      "size": 86,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.6942955607221,
+      "size": 13,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 98.67637356005125,
+      "size": 66,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.3647713833179,
+      "size": 99,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.78116716509865,
+      "size": 96,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.40683245238931,
+      "size": 39,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.61158547529573,
+      "size": 93,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.65828410493494,
+      "size": 57,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.77724873929961,
+      "size": 84,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.72669223855885,
+      "size": 65,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.99556798867181,
+      "size": 30,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.9326636229587,
+      "size": 68,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.03316084944622,
+      "size": 88,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.39630208417681,
+      "size": 12,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.91713847342669,
+      "size": 56,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.58720757849127,
+      "size": 46,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 101.1548613777031,
+      "size": 25,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.66805154322667,
+      "size": 52,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.58355145719182,
+      "size": 74,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.81055427889386,
+      "size": 98,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.68842973678761,
+      "size": 3,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.72226144041987,
+      "size": 6,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.71025212399493,
+      "size": 62,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.71462685312527,
+      "size": 88,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.72388847785952,
+      "size": 89,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.31646590887776,
+      "size": 68,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.93347095766447,
+      "size": 56,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.56283939218481,
+      "size": 92,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.14293269536245,
+      "size": 40,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.16722839499351,
+      "size": 5,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.91152638625297,
+      "size": 79,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.60085137773078,
+      "size": 72,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.9834365135631,
+      "size": 70,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.89727893175889,
+      "size": 60,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.74119435048192,
+      "size": 81,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.11189397581946,
+      "size": 40,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 101.2634662129368,
+      "size": 58,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.73456561353984,
+      "size": 56,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.34094574481315,
+      "size": 33,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.92335366286801,
+      "size": 88,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.81085355823149,
+      "size": 59,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.27338967708262,
+      "size": 48,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.41555186712914,
+      "size": 53,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.62874282457153,
+      "size": 63,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.67540433754816,
+      "size": 45,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.24028105370537,
+      "size": 31,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.11481396508182,
+      "size": 82,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.92376432244745,
+      "size": 2,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.5946120400535,
+      "size": 66,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.43113151239844,
+      "size": 13,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.32626734687975,
+      "size": 95,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.05372700734802,
+      "size": 60,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.74756687275871,
+      "size": 70,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.10681521221426,
+      "size": 30,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.26901117739843,
+      "size": 63,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.02397702514155,
+      "size": 60,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.08777291494525,
+      "size": 68,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.20425617418871,
+      "size": 64,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.37595130901634,
+      "size": 65,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 100.48844953901853,
+      "size": 90,
+      "aggressor_side": "SELL"
+    },
+    {
+      "price": 99.7205390763642,
+      "size": 76,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.18860593753226,
+      "size": 29,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 99.77541809561222,
+      "size": 32,
+      "aggressor_side": "BUY"
+    },
+    {
+      "price": 100.5633765959631,
+      "size": 75,
+      "aggressor_side": "SELL"
+    }
+  ],
+  "l1_snapshots": [
+    {
+      "best_bid": 99.96107672844343,
+      "best_ask": 99.97112820243572,
+      "spread": 0.010051473992291449,
+      "mid_price": 99.96610246543958
+    },
+    {
+      "best_bid": 99.60391189406937,
+      "best_ask": 99.66112707581726,
+      "spread": 0.05721518174789253,
+      "mid_price": 99.63251948494332
+    },
+    {
+      "best_bid": 100.01913084129056,
+      "best_ask": 100.03424052227525,
+      "spread": 0.015109680984693341,
+      "mid_price": 100.02668568178291
+    },
+    {
+      "best_bid": 100.32412609546643,
+      "best_ask": 100.37542213375642,
+      "spread": 0.05129603828999052,
+      "mid_price": 100.34977411461142
+    },
+    {
+      "best_bid": 100.12665779644237,
+      "best_ask": 100.15157651799188,
+      "spread": 0.024918721549511247,
+      "mid_price": 100.13911715721713
+    },
+    {
+      "best_bid": 100.16259372518854,
+      "best_ask": 100.18409640934013,
+      "spread": 0.021502684151585072,
+      "mid_price": 100.17334506726434
+    },
+    {
+      "best_bid": 99.43768489149835,
+      "best_ask": 99.45425164781881,
+      "spread": 0.016566756320457898,
+      "mid_price": 99.44596826965858
+    },
+    {
+      "best_bid": 99.81698060773601,
+      "best_ask": 99.84301774475793,
+      "spread": 0.026037137021916124,
+      "mid_price": 99.82999917624697
+    },
+    {
+      "best_bid": 99.74279893702759,
+      "best_ask": 99.78902007065828,
+      "spread": 0.04622113363069502,
+      "mid_price": 99.76590950384293
+    },
+    {
+      "best_bid": 100.16535387677487,
+      "best_ask": 100.2187600174494,
+      "spread": 0.053406140674525204,
+      "mid_price": 100.19205694711214
+    },
+    {
+      "best_bid": 99.62816073696781,
+      "best_ask": 99.67390693897794,
+      "spread": 0.045746202010121806,
+      "mid_price": 99.65103383797288
+    },
+    {
+      "best_bid": 100.75063656464536,
+      "best_ask": 100.78779820493486,
+      "spread": 0.0371616402894972,
+      "mid_price": 100.76921738479011
+    },
+    {
+      "best_bid": 99.94342220778245,
+      "best_ask": 99.9613844946964,
+      "spread": 0.017962286913956405,
+      "mid_price": 99.95240335123943
+    },
+    {
+      "best_bid": 99.62574868494728,
+      "best_ask": 99.66226640463368,
+      "spread": 0.03651771968640105,
+      "mid_price": 99.64400754479048
+    },
+    {
+      "best_bid": 99.79956148912899,
+      "best_ask": 99.81045458375291,
+      "spread": 0.010893094623924071,
+      "mid_price": 99.80500803644095
+    },
+    {
+      "best_bid": 100.25337118558646,
+      "best_ask": 100.30896298733445,
+      "spread": 0.05559180174799394,
+      "mid_price": 100.28116708646046
+    },
+    {
+      "best_bid": 99.92232449477092,
+      "best_ask": 99.9807000579516,
+      "spread": 0.05837556318067527,
+      "mid_price": 99.95151227636126
+    },
+    {
+      "best_bid": 99.59258680281535,
+      "best_ask": 99.60264839457368,
+      "spread": 0.010061591758329769,
+      "mid_price": 99.59761759869451
+    },
+    {
+      "best_bid": 99.55220415857116,
+      "best_ask": 99.59212052182727,
+      "spread": 0.039916363256111254,
+      "mid_price": 99.57216234019921
+    },
+    {
+      "best_bid": 100.16288921036885,
+      "best_ask": 100.20080984399802,
+      "spread": 0.0379206336291702,
+      "mid_price": 100.18184952718343
+    },
+    {
+      "best_bid": 100.12275805213899,
+      "best_ask": 100.14403505926118,
+      "spread": 0.021277007122193936,
+      "mid_price": 100.13339655570009
+    },
+    {
+      "best_bid": 99.688245254224,
+      "best_ask": 99.7145415274216,
+      "spread": 0.02629627319760175,
+      "mid_price": 99.7013933908228
+    },
+    {
+      "best_bid": 100.06918108172742,
+      "best_ask": 100.1086942786717,
+      "spread": 0.039513196944284346,
+      "mid_price": 100.08893768019956
+    },
+    {
+      "best_bid": 99.97900310385451,
+      "best_ask": 99.99648213598788,
+      "spread": 0.01747903213336599,
+      "mid_price": 99.98774261992119
+    },
+    {
+      "best_bid": 99.70227843376414,
+      "best_ask": 99.73550836359591,
+      "spread": 0.03322992983177642,
+      "mid_price": 99.71889339868002
+    },
+    {
+      "best_bid": 100.45627311120941,
+      "best_ask": 100.51500810380296,
+      "spread": 0.058734992593542756,
+      "mid_price": 100.48564060750618
+    },
+    {
+      "best_bid": 100.34149931196335,
+      "best_ask": 100.3875936933597,
+      "spread": 0.04609438139635813,
+      "mid_price": 100.36454650266153
+    },
+    {
+      "best_bid": 100.19380916060616,
+      "best_ask": 100.2514415925081,
+      "spread": 0.05763243190193634,
+      "mid_price": 100.22262537655713
+    },
+    {
+      "best_bid": 100.25425896473429,
+      "best_ask": 100.30964989738352,
+      "spread": 0.05539093264923167,
+      "mid_price": 100.2819544310589
+    },
+    {
+      "best_bid": 100.24515601155049,
+      "best_ask": 100.26245211525226,
+      "spread": 0.01729610370176715,
+      "mid_price": 100.25380406340138
+    },
+    {
+      "best_bid": 99.89542332620182,
+      "best_ask": 99.91056294642645,
+      "spread": 0.015139620224630335,
+      "mid_price": 99.90299313631414
+    },
+    {
+      "best_bid": 99.99722215600552,
+      "best_ask": 100.0313399750831,
+      "spread": 0.03411781907757927,
+      "mid_price": 100.01428106554431
+    },
+    {
+      "best_bid": 100.34476553536379,
+      "best_ask": 100.36528301435973,
+      "spread": 0.020517478995941474,
+      "mid_price": 100.35502427486176
+    },
+    {
+      "best_bid": 99.77325688791706,
+      "best_ask": 99.83031876312867,
+      "spread": 0.0570618752116161,
+      "mid_price": 99.80178782552287
+    },
+    {
+      "best_bid": 100.30013195460252,
+      "best_ask": 100.31375276820982,
+      "spread": 0.013620813607303717,
+      "mid_price": 100.30694236140617
+    },
+    {
+      "best_bid": 100.02041300824712,
+      "best_ask": 100.03453843496914,
+      "spread": 0.014125426722017664,
+      "mid_price": 100.02747572160813
+    },
+    {
+      "best_bid": 99.55877558912665,
+      "best_ask": 99.6100012914715,
+      "spread": 0.05122570234485124,
+      "mid_price": 99.58438844029908
+    },
+    {
+      "best_bid": 99.63836748633823,
+      "best_ask": 99.69724080565398,
+      "spread": 0.058873319315750905,
+      "mid_price": 99.6678041459961
+    },
+    {
+      "best_bid": 100.26576938366577,
+      "best_ask": 100.28581233815888,
+      "spread": 0.02004295449310689,
+      "mid_price": 100.27579086091232
+    },
+    {
+      "best_bid": 100.15972763819553,
+      "best_ask": 100.17178681295951,
+      "spread": 0.012059174763976444,
+      "mid_price": 100.16575722557752
+    },
+    {
+      "best_bid": 100.0414107568297,
+      "best_ask": 100.08493002974744,
+      "spread": 0.0435192729177345,
+      "mid_price": 100.06317039328857
+    },
+    {
+      "best_bid": 100.24367376022941,
+      "best_ask": 100.28450398932254,
+      "spread": 0.04083022909313172,
+      "mid_price": 100.26408887477598
+    },
+    {
+      "best_bid": 100.0912643658559,
+      "best_ask": 100.13191157459919,
+      "spread": 0.040647208743280316,
+      "mid_price": 100.11158797022755
+    },
+    {
+      "best_bid": 99.91973673132487,
+      "best_ask": 99.97710425445642,
+      "spread": 0.05736752313154625,
+      "mid_price": 99.94842049289065
+    },
+    {
+      "best_bid": 100.13478746664818,
+      "best_ask": 100.17605269965888,
+      "spread": 0.04126523301070506,
+      "mid_price": 100.15542008315353
+    },
+    {
+      "best_bid": 100.37528602995269,
+      "best_ask": 100.40950595233139,
+      "spread": 0.03421992237869631,
+      "mid_price": 100.39239599114204
+    },
+    {
+      "best_bid": 100.62524496968986,
+      "best_ask": 100.66828597560483,
+      "spread": 0.043041005914972175,
+      "mid_price": 100.64676547264735
+    },
+    {
+      "best_bid": 100.32707596019205,
+      "best_ask": 100.376267587863,
+      "spread": 0.04919162767095031,
+      "mid_price": 100.35167177402752
+    },
+    {
+      "best_bid": 100.48867189463952,
+      "best_ask": 100.52271708621198,
+      "spread": 0.03404519157246,
+      "mid_price": 100.50569449042575
+    },
+    {
+      "best_bid": 99.84207940053409,
+      "best_ask": 99.88174333294961,
+      "spread": 0.039663932415521685,
+      "mid_price": 99.86191136674185
+    },
+    {
+      "best_bid": 100.68931038374693,
+      "best_ask": 100.7318250930406,
+      "spread": 0.04251470929366974,
+      "mid_price": 100.71056773839376
+    },
+    {
+      "best_bid": 99.85956298945477,
+      "best_ask": 99.88601386134552,
+      "spread": 0.02645087189074502,
+      "mid_price": 99.87278842540015
+    },
+    {
+      "best_bid": 100.15460361135297,
+      "best_ask": 100.1881127409878,
+      "spread": 0.033509129634836654,
+      "mid_price": 100.17135817617039
+    },
+    {
+      "best_bid": 100.0967339933367,
+      "best_ask": 100.12841676003453,
+      "spread": 0.03168276669782699,
+      "mid_price": 100.11257537668561
+    },
+    {
+      "best_bid": 99.60054215550478,
+      "best_ask": 99.61272523839015,
+      "spread": 0.012183082885371732,
+      "mid_price": 99.60663369694747
+    },
+    {
+      "best_bid": 100.34097151995653,
+      "best_ask": 100.3780954517425,
+      "spread": 0.0371239317859704,
+      "mid_price": 100.35953348584951
+    },
+    {
+      "best_bid": 99.92998768861709,
+      "best_ask": 99.96465153095629,
+      "spread": 0.03466384233919939,
+      "mid_price": 99.94731960978669
+    },
+    {
+      "best_bid": 99.76160031956245,
+      "best_ask": 99.78262837580856,
+      "spread": 0.021028056246109372,
+      "mid_price": 99.7721143476855
+    },
+    {
+      "best_bid": 100.12922157249419,
+      "best_ask": 100.16014156192757,
+      "spread": 0.03091998943338581,
+      "mid_price": 100.14468156721088
+    },
+    {
+      "best_bid": 99.86467525665181,
+      "best_ask": 99.88338492348073,
+      "spread": 0.01870966682892572,
+      "mid_price": 99.87403009006627
+    },
+    {
+      "best_bid": 100.31035632333214,
+      "best_ask": 100.3683953509065,
+      "spread": 0.05803902757435253,
+      "mid_price": 100.33937583711932
+    },
+    {
+      "best_bid": 99.89685663099252,
+      "best_ask": 99.93829487190283,
+      "spread": 0.04143824091030979,
+      "mid_price": 99.91757575144767
+    },
+    {
+      "best_bid": 99.98519527554886,
+      "best_ask": 100.03196279048215,
+      "spread": 0.04676751493329334,
+      "mid_price": 100.00857903301551
+    },
+    {
+      "best_bid": 100.45548726312116,
+      "best_ask": 100.49265228928932,
+      "spread": 0.03716502616816797,
+      "mid_price": 100.47406977620524
+    },
+    {
+      "best_bid": 99.85931352981132,
+      "best_ask": 99.89501332320177,
+      "spread": 0.035699793390449486,
+      "mid_price": 99.87716342650654
+    },
+    {
+      "best_bid": 100.00809695239131,
+      "best_ask": 100.03787271088378,
+      "spread": 0.0297757584924625,
+      "mid_price": 100.02298483163754
+    },
+    {
+      "best_bid": 100.37492835113073,
+      "best_ask": 100.4152377868088,
+      "spread": 0.04030943567806844,
+      "mid_price": 100.39508306896977
+    },
+    {
+      "best_bid": 100.11041559383364,
+      "best_ask": 100.15316606077525,
+      "spread": 0.04275046694161233,
+      "mid_price": 100.13179082730444
+    },
+    {
+      "best_bid": 99.70373344045731,
+      "best_ask": 99.76334010627434,
+      "spread": 0.05960666581702867,
+      "mid_price": 99.73353677336583
+    },
+    {
+      "best_bid": 99.57649192363797,
+      "best_ask": 99.60568428123136,
+      "spread": 0.029192357593387896,
+      "mid_price": 99.59108810243467
+    },
+    {
+      "best_bid": 99.83649284671704,
+      "best_ask": 99.86978348706806,
+      "spread": 0.03329064035102647,
+      "mid_price": 99.85313816689255
+    },
+    {
+      "best_bid": 100.16236689482689,
+      "best_ask": 100.21116690517867,
+      "spread": 0.048800010351783385,
+      "mid_price": 100.18676690000278
+    },
+    {
+      "best_bid": 100.48285152624045,
+      "best_ask": 100.51311703539473,
+      "spread": 0.03026550915427606,
+      "mid_price": 100.49798428081759
+    },
+    {
+      "best_bid": 100.368372128858,
+      "best_ask": 100.39701456071745,
+      "spread": 0.0286424318594527,
+      "mid_price": 100.38269334478773
+    },
+    {
+      "best_bid": 99.77107537226007,
+      "best_ask": 99.80670613252036,
+      "spread": 0.03563076026028966,
+      "mid_price": 99.78889075239022
+    },
+    {
+      "best_bid": 99.94145930724726,
+      "best_ask": 99.9733175766881,
+      "spread": 0.03185826944084624,
+      "mid_price": 99.95738844196768
+    },
+    {
+      "best_bid": 100.47558540579418,
+      "best_ask": 100.49045507542185,
+      "spread": 0.014869669627671556,
+      "mid_price": 100.48302024060801
+    },
+    {
+      "best_bid": 99.48678166866182,
+      "best_ask": 99.525752413629,
+      "spread": 0.03897074496717323,
+      "mid_price": 99.5062670411454
+    },
+    {
+      "best_bid": 100.0588995105081,
+      "best_ask": 100.10203057445852,
+      "spread": 0.043131063950426096,
+      "mid_price": 100.08046504248331
+    },
+    {
+      "best_bid": 99.77311133186036,
+      "best_ask": 99.79871873469519,
+      "spread": 0.025607402834822324,
+      "mid_price": 99.78591503327777
+    },
+    {
+      "best_bid": 100.50005349544088,
+      "best_ask": 100.53000579274774,
+      "spread": 0.02995229730686333,
+      "mid_price": 100.51502964409431
+    },
+    {
+      "best_bid": 100.44636697361362,
+      "best_ask": 100.47619996243081,
+      "spread": 0.029832988817190653,
+      "mid_price": 100.46128346802222
+    },
+    {
+      "best_bid": 100.11901773434187,
+      "best_ask": 100.14086912719728,
+      "spread": 0.021851392855410268,
+      "mid_price": 100.12994343076957
+    },
+    {
+      "best_bid": 99.89409664920376,
+      "best_ask": 99.92619786789291,
+      "spread": 0.03210121868914939,
+      "mid_price": 99.91014725854834
+    },
+    {
+      "best_bid": 100.57203805533128,
+      "best_ask": 100.59858252348074,
+      "spread": 0.026544468149467093,
+      "mid_price": 100.58531028940601
+    },
+    {
+      "best_bid": 99.81436250866955,
+      "best_ask": 99.83165033708178,
+      "spread": 0.017287828412236195,
+      "mid_price": 99.82300642287566
+    },
+    {
+      "best_bid": 100.16009304970478,
+      "best_ask": 100.19256474146547,
+      "spread": 0.032471691760690646,
+      "mid_price": 100.17632889558513
+    },
+    {
+      "best_bid": 100.02323234515549,
+      "best_ask": 100.04585873425927,
+      "spread": 0.022626389103777456,
+      "mid_price": 100.03454553970738
+    },
+    {
+      "best_bid": 100.40738174350535,
+      "best_ask": 100.43534428090116,
+      "spread": 0.02796253739580834,
+      "mid_price": 100.42136301220326
+    },
+    {
+      "best_bid": 99.50441867668168,
+      "best_ask": 99.53225527933368,
+      "spread": 0.02783660265200183,
+      "mid_price": 99.51833697800768
+    },
+    {
+      "best_bid": 100.19382570677122,
+      "best_ask": 100.2305013030362,
+      "spread": 0.03667559626498473,
+      "mid_price": 100.21216350490371
+    },
+    {
+      "best_bid": 100.2749304500152,
+      "best_ask": 100.30724888234084,
+      "spread": 0.03231843232563847,
+      "mid_price": 100.29108966617802
+    },
+    {
+      "best_bid": 100.44859567722726,
+      "best_ask": 100.50180648611097,
+      "spread": 0.053210808883704885,
+      "mid_price": 100.47520108166911
+    },
+    {
+      "best_bid": 100.68648281435034,
+      "best_ask": 100.6981922026473,
+      "spread": 0.011709388296964107,
+      "mid_price": 100.69233750849882
+    },
+    {
+      "best_bid": 99.87384573467727,
+      "best_ask": 99.93318038369515,
+      "spread": 0.05933464901787033,
+      "mid_price": 99.90351305918621
+    },
+    {
+      "best_bid": 99.85840607002999,
+      "best_ask": 99.87099091189205,
+      "spread": 0.012584841862064877,
+      "mid_price": 99.86469849096102
+    },
+    {
+      "best_bid": 99.79183886702603,
+      "best_ask": 99.83383901536789,
+      "spread": 0.04200014834185595,
+      "mid_price": 99.81283894119696
+    },
+    {
+      "best_bid": 99.83176454832197,
+      "best_ask": 99.84619232753313,
+      "spread": 0.014427779211160896,
+      "mid_price": 99.83897843792755
+    },
+    {
+      "best_bid": 100.50714407847377,
+      "best_ask": 100.52230952632996,
+      "spread": 0.015165447856190895,
+      "mid_price": 100.51472680240187
+    },
+    {
+      "best_bid": 100.21663012379902,
+      "best_ask": 100.24649907322224,
+      "spread": 0.029868949423217828,
+      "mid_price": 100.23156459851063
+    },
+    {
+      "best_bid": 99.51966322487826,
+      "best_ask": 99.55365807895785,
+      "spread": 0.03399485407959446,
+      "mid_price": 99.53666065191806
+    },
+    {
+      "best_bid": 100.13298547361465,
+      "best_ask": 100.16907197594647,
+      "spread": 0.03608650233181265,
+      "mid_price": 100.15102872478056
+    },
+    {
+      "best_bid": 99.66676454533747,
+      "best_ask": 99.6938972197435,
+      "spread": 0.027132674406033175,
+      "mid_price": 99.68033088254049
+    },
+    {
+      "best_bid": 100.01922386602872,
+      "best_ask": 100.03585959871968,
+      "spread": 0.01663573269095764,
+      "mid_price": 100.0275417323742
+    },
+    {
+      "best_bid": 100.01056833134925,
+      "best_ask": 100.02774544945123,
+      "spread": 0.017177118101983524,
+      "mid_price": 100.01915689040024
+    },
+    {
+      "best_bid": 100.02711743280065,
+      "best_ask": 100.04523652753377,
+      "spread": 0.01811909473312312,
+      "mid_price": 100.03617698016721
+    },
+    {
+      "best_bid": 99.77405414722493,
+      "best_ask": 99.7934716014132,
+      "spread": 0.019417454188271677,
+      "mid_price": 99.78376287431907
+    },
+    {
+      "best_bid": 100.13430366283919,
+      "best_ask": 100.15603172750593,
+      "spread": 0.02172806466674615,
+      "mid_price": 100.14516769517256
+    },
+    {
+      "best_bid": 100.21247413161377,
+      "best_ask": 100.2706414732548,
+      "spread": 0.058167341641023995,
+      "mid_price": 100.24155780243429
+    },
+    {
+      "best_bid": 99.60484246105415,
+      "best_ask": 99.66377402542417,
+      "spread": 0.058931564370027445,
+      "mid_price": 99.63430824323916
+    },
+    {
+      "best_bid": 100.04077392120841,
+      "best_ask": 100.0694887595654,
+      "spread": 0.028714838356989958,
+      "mid_price": 100.05513134038691
+    },
+    {
+      "best_bid": 100.02581790176586,
+      "best_ask": 100.07424386999205,
+      "spread": 0.04842596822618361,
+      "mid_price": 100.05003088587895
+    },
+    {
+      "best_bid": 100.17758086781816,
+      "best_ask": 100.193236358772,
+      "spread": 0.015655490953832896,
+      "mid_price": 100.18540861329508
+    },
+    {
+      "best_bid": 100.01664002465397,
+      "best_ask": 100.06798196883956,
+      "spread": 0.05134194418559446,
+      "mid_price": 100.04231099674676
+    },
+    {
+      "best_bid": 99.42304360470665,
+      "best_ask": 99.46639218055618,
+      "spread": 0.04334857584953511,
+      "mid_price": 99.44471789263142
+    },
+    {
+      "best_bid": 100.27405696642855,
+      "best_ask": 100.29202133869067,
+      "spread": 0.01796437226212788,
+      "mid_price": 100.28303915255961
+    },
+    {
+      "best_bid": 100.22061741662866,
+      "best_ask": 100.26086511276317,
+      "spread": 0.0402476961345144,
+      "mid_price": 100.24074126469591
+    },
+    {
+      "best_bid": 99.85067030475884,
+      "best_ask": 99.91033715162678,
+      "spread": 0.059666846867941103,
+      "mid_price": 99.8805037281928
+    },
+    {
+      "best_bid": 99.89759937503905,
+      "best_ask": 99.94522076316983,
+      "spread": 0.04762138813077854,
+      "mid_price": 99.92141006910444
+    },
+    {
+      "best_bid": 99.83996832446617,
+      "best_ask": 99.85542380605445,
+      "spread": 0.015455481588276143,
+      "mid_price": 99.84769606526031
+    },
+    {
+      "best_bid": 100.24917959778955,
+      "best_ask": 100.29170518017912,
+      "spread": 0.04252558238957249,
+      "mid_price": 100.27044238898434
+    },
+    {
+      "best_bid": 99.93139394486556,
+      "best_ask": 99.98528850281764,
+      "spread": 0.05389455795207709,
+      "mid_price": 99.9583412238416
+    },
+    {
+      "best_bid": 99.89120307838515,
+      "best_ask": 99.91706286422341,
+      "spread": 0.025859785838264315,
+      "mid_price": 99.90413297130428
+    },
+    {
+      "best_bid": 100.27203131574468,
+      "best_ask": 100.2968747794727,
+      "spread": 0.024843463728018378,
+      "mid_price": 100.2844530476087
+    },
+    {
+      "best_bid": 100.31155119419702,
+      "best_ask": 100.35400492713674,
+      "spread": 0.04245373293971966,
+      "mid_price": 100.33277806066688
+    },
+    {
+      "best_bid": 99.54114341341196,
+      "best_ask": 99.5816350036869,
+      "spread": 0.040491590274939426,
+      "mid_price": 99.56138920854943
+    },
+    {
+      "best_bid": 100.24336435829703,
+      "best_ask": 100.28153630466444,
+      "spread": 0.03817194636741306,
+      "mid_price": 100.26245033148074
+    },
+    {
+      "best_bid": 99.33299366971546,
+      "best_ask": 99.37281794346474,
+      "spread": 0.03982427374927511,
+      "mid_price": 99.3529058065901
+    },
+    {
+      "best_bid": 99.89044833548822,
+      "best_ask": 99.92773267991298,
+      "spread": 0.03728434442476214,
+      "mid_price": 99.9090905077006
+    },
+    {
+      "best_bid": 99.9699124612985,
+      "best_ask": 100.00926554668355,
+      "spread": 0.039353085385045006,
+      "mid_price": 99.98958900399103
+    },
+    {
+      "best_bid": 100.37154204513438,
+      "best_ask": 100.38996426439151,
+      "spread": 0.01842221925713261,
+      "mid_price": 100.38075315476294
+    },
+    {
+      "best_bid": 100.19181000571656,
+      "best_ask": 100.22683227117311,
+      "spread": 0.035022265456547075,
+      "mid_price": 100.20932113844484
+    },
+    {
+      "best_bid": 99.49223889815093,
+      "best_ask": 99.52935708139992,
+      "spread": 0.03711818324899241,
+      "mid_price": 99.51079798977543
+    },
+    {
+      "best_bid": 100.03437390459443,
+      "best_ask": 100.0682086783465,
+      "spread": 0.03383477375206212,
+      "mid_price": 100.05129129147046
+    },
+    {
+      "best_bid": 100.47245548448461,
+      "best_ask": 100.50217375067552,
+      "spread": 0.02971826619091189,
+      "mid_price": 100.48731461758007
+    },
+    {
+      "best_bid": 100.07465282191205,
+      "best_ask": 100.12042736726701,
+      "spread": 0.04577454535495917,
+      "mid_price": 100.09754009458953
+    },
+    {
+      "best_bid": 99.90078917918886,
+      "best_ask": 99.93685088581312,
+      "spread": 0.036061706624252565,
+      "mid_price": 99.91882003250099
+    },
+    {
+      "best_bid": 100.35112826663422,
+      "best_ask": 100.40596398112623,
+      "spread": 0.05483571449201463,
+      "mid_price": 100.37854612388023
+    },
+    {
+      "best_bid": 100.03201008579852,
+      "best_ask": 100.04557409930128,
+      "spread": 0.013564013502758598,
+      "mid_price": 100.0387920925499
+    },
+    {
+      "best_bid": 100.09951237631427,
+      "best_ask": 100.12851610176114,
+      "spread": 0.02900372544687002,
+      "mid_price": 100.1140142390377
+    },
+    {
+      "best_bid": 99.57081567698252,
+      "best_ask": 99.59067338331117,
+      "spread": 0.019857706328650693,
+      "mid_price": 99.58074453014684
+    },
+    {
+      "best_bid": 99.96226818633882,
+      "best_ask": 99.98058476672598,
+      "spread": 0.01831658038716455,
+      "mid_price": 99.9714264765324
+    },
+    {
+      "best_bid": 100.59431988287012,
+      "best_ask": 100.63518747074077,
+      "spread": 0.04086758787065037,
+      "mid_price": 100.61475367680545
+    },
+    {
+      "best_bid": 100.05519165879204,
+      "best_ask": 100.11167195266313,
+      "spread": 0.05648029387108977,
+      "mid_price": 100.08343180572759
+    },
+    {
+      "best_bid": 99.73301507040675,
+      "best_ask": 99.76962808107369,
+      "spread": 0.03661301066694023,
+      "mid_price": 99.75132157574022
+    },
+    {
+      "best_bid": 100.02610234910252,
+      "best_ask": 100.07198413839795,
+      "spread": 0.04588178929543574,
+      "mid_price": 100.04904324375023
+    },
+    {
+      "best_bid": 99.66741056501077,
+      "best_ask": 99.69740582535097,
+      "spread": 0.029995260340200502,
+      "mid_price": 99.68240819518087
+    },
+    {
+      "best_bid": 99.99246424296014,
+      "best_ask": 100.04543503262416,
+      "spread": 0.05297078966401614,
+      "mid_price": 100.01894963779215
+    },
+    {
+      "best_bid": 99.80063492068955,
+      "best_ask": 99.85062397546075,
+      "spread": 0.049989054771202746,
+      "mid_price": 99.82562944807515
+    },
+    {
+      "best_bid": 99.70651199790278,
+      "best_ask": 99.75618236081017,
+      "spread": 0.04967036290739202,
+      "mid_price": 99.73134717935648
+    },
+    {
+      "best_bid": 99.94721555756273,
+      "best_ask": 99.96647697989009,
+      "spread": 0.019261422327360833,
+      "mid_price": 99.95684626872641
+    },
+    {
+      "best_bid": 100.23168666847106,
+      "best_ask": 100.24603861660044,
+      "spread": 0.014351948129387893,
+      "mid_price": 100.23886264253575
+    },
+    {
+      "best_bid": 100.11770739973092,
+      "best_ask": 100.16849483190613,
+      "spread": 0.05078743217521264,
+      "mid_price": 100.14310111581852
+    },
+    {
+      "best_bid": 99.30911858195984,
+      "best_ask": 99.3247337991804,
+      "spread": 0.015615217220556588,
+      "mid_price": 99.31692619057011
+    },
+    {
+      "best_bid": 100.06918473868004,
+      "best_ask": 100.07931393942229,
+      "spread": 0.010129200742255762,
+      "mid_price": 100.07424933905116
+    },
+    {
+      "best_bid": 100.6552979661168,
+      "best_ask": 100.69497489457295,
+      "spread": 0.03967692845614579,
+      "mid_price": 100.67513643034488
+    },
+    {
+      "best_bid": 99.6573387645995,
+      "best_ask": 99.70702595711853,
+      "spread": 0.04968719251903053,
+      "mid_price": 99.68218236085902
+    },
+    {
+      "best_bid": 100.12924680185994,
+      "best_ask": 100.15728542781547,
+      "spread": 0.028038625955531415,
+      "mid_price": 100.1432661148377
+    },
+    {
+      "best_bid": 100.06737534002164,
+      "best_ask": 100.12266989526103,
+      "spread": 0.05529455523938509,
+      "mid_price": 100.09502261764133
+    },
+    {
+      "best_bid": 100.44150761257357,
+      "best_ask": 100.46428986246404,
+      "spread": 0.02278224989046862,
+      "mid_price": 100.45289873751881
+    },
+    {
+      "best_bid": 100.1952582852524,
+      "best_ask": 100.22036131034413,
+      "spread": 0.025103025091738118,
+      "mid_price": 100.20780979779826
+    },
+    {
+      "best_bid": 100.11547717412115,
+      "best_ask": 100.1590484075977,
+      "spread": 0.04357123347654124,
+      "mid_price": 100.13726279085942
+    },
+    {
+      "best_bid": 99.80443523165354,
+      "best_ask": 99.85491173044196,
+      "spread": 0.05047649878841298,
+      "mid_price": 99.82967348104775
+    },
+    {
+      "best_bid": 100.1140591751168,
+      "best_ask": 100.14525641576246,
+      "spread": 0.031197240645667534,
+      "mid_price": 100.12965779543963
+    },
+    {
+      "best_bid": 100.1420151742692,
+      "best_ask": 100.15966436431063,
+      "spread": 0.017649190041424845,
+      "mid_price": 100.15083976928992
+    },
+    {
+      "best_bid": 99.87502343584201,
+      "best_ask": 99.90866803412366,
+      "spread": 0.033644598281654226,
+      "mid_price": 99.89184573498284
+    },
+    {
+      "best_bid": 99.8173689403543,
+      "best_ask": 99.85413684544642,
+      "spread": 0.03676790509211969,
+      "mid_price": 99.83575289290036
+    },
+    {
+      "best_bid": 99.70790989562833,
+      "best_ask": 99.72942220404973,
+      "spread": 0.021512308421392845,
+      "mid_price": 99.71866604983903
+    },
+    {
+      "best_bid": 99.59191913982933,
+      "best_ask": 99.61222844805526,
+      "spread": 0.02030930822593291,
+      "mid_price": 99.6020737939423
+    },
+    {
+      "best_bid": 100.20501025742128,
+      "best_ask": 100.24661103172231,
+      "spread": 0.04160077430103115,
+      "mid_price": 100.2258106445718
+    },
+    {
+      "best_bid": 99.8630909060742,
+      "best_ask": 99.87601363677965,
+      "spread": 0.0129227307054407,
+      "mid_price": 99.86955227142693
+    },
+    {
+      "best_bid": 99.77280970339174,
+      "best_ask": 99.81266204923654,
+      "spread": 0.03985234584479258,
+      "mid_price": 99.79273587631414
+    },
+    {
+      "best_bid": 99.41764384888627,
+      "best_ask": 99.46143591114064,
+      "spread": 0.0437920622543686,
+      "mid_price": 99.43953988001346
+    },
+    {
+      "best_bid": 99.38464584421428,
+      "best_ask": 99.4308716867842,
+      "spread": 0.04622584256992468,
+      "mid_price": 99.40775876549924
+    },
+    {
+      "best_bid": 100.30738712339681,
+      "best_ask": 100.31817817798509,
+      "spread": 0.010791054588281668,
+      "mid_price": 100.31278265069095
+    },
+    {
+      "best_bid": 99.82396349728003,
+      "best_ask": 99.8641244677907,
+      "spread": 0.04016097051066936,
+      "mid_price": 99.84404398253537
+    },
+    {
+      "best_bid": 100.03730653671084,
+      "best_ask": 100.06416789334861,
+      "spread": 0.026861356637766676,
+      "mid_price": 100.05073721502973
+    },
+    {
+      "best_bid": 100.06384893926878,
+      "best_ask": 100.08709371163062,
+      "spread": 0.023244772361834976,
+      "mid_price": 100.0754713254497
+    },
+    {
+      "best_bid": 99.4894175076466,
+      "best_ask": 99.5316819995229,
+      "spread": 0.04226449187629555,
+      "mid_price": 99.51054975358475
+    },
+    {
+      "best_bid": 100.46011238649085,
+      "best_ask": 100.48846019045108,
+      "spread": 0.028347803960230067,
+      "mid_price": 100.47428628847096
+    },
+    {
+      "best_bid": 99.67968037426687,
+      "best_ask": 99.70685839800566,
+      "spread": 0.02717802373879863,
+      "mid_price": 99.69326938613627
+    },
+    {
+      "best_bid": 100.59818719927587,
+      "best_ask": 100.64978035493844,
+      "spread": 0.051593155662573054,
+      "mid_price": 100.62398377710716
+    },
+    {
+      "best_bid": 100.03711019827027,
+      "best_ask": 100.08059032907697,
+      "spread": 0.043480130806699435,
+      "mid_price": 100.05885026367362
+    },
+    {
+      "best_bid": 99.80765515072713,
+      "best_ask": 99.83121252255214,
+      "spread": 0.023557371825006612,
+      "mid_price": 99.81943383663963
+    },
+    {
+      "best_bid": 99.65159466457972,
+      "best_ask": 99.69123526416239,
+      "spread": 0.0396405995826683,
+      "mid_price": 99.67141496437105
+    },
+    {
+      "best_bid": 100.20347108765644,
+      "best_ask": 100.23631401990046,
+      "spread": 0.032842932244022904,
+      "mid_price": 100.21989255377845
+    },
+    {
+      "best_bid": 99.9471881751229,
+      "best_ask": 99.96670441826384,
+      "spread": 0.01951624314094147,
+      "mid_price": 99.95694629669337
+    },
+    {
+      "best_bid": 99.82732779220271,
+      "best_ask": 99.855475005795,
+      "spread": 0.02814721359229111,
+      "mid_price": 99.84140139899885
+    },
+    {
+      "best_bid": 99.38477744527773,
+      "best_ask": 99.44455146981295,
+      "spread": 0.05977402453521563,
+      "mid_price": 99.41466445754534
+    },
+    {
+      "best_bid": 99.79180945747547,
+      "best_ask": 99.83083320781131,
+      "spread": 0.03902375033584349,
+      "mid_price": 99.81132133264339
+    },
+    {
+      "best_bid": 100.02592797675715,
+      "best_ask": 100.04036634646255,
+      "spread": 0.014438369705402465,
+      "mid_price": 100.03314716160985
+    },
+    {
+      "best_bid": 100.08951749248254,
+      "best_ask": 100.13725938347957,
+      "spread": 0.04774189099703108,
+      "mid_price": 100.11338843798106
+    },
+    {
+      "best_bid": 99.52393603171355,
+      "best_ask": 99.54245992862225,
+      "spread": 0.01852389690870382,
+      "mid_price": 99.5331979801679
+    },
+    {
+      "best_bid": 99.42788341910676,
+      "best_ask": 99.47897374130181,
+      "spread": 0.051090322195051385,
+      "mid_price": 99.45342858020429
+    },
+    {
+      "best_bid": 99.29429726575603,
+      "best_ask": 99.304359099744,
+      "spread": 0.010061833987975888,
+      "mid_price": 99.29932818275002
+    },
+    {
+      "best_bid": 99.84221510307796,
+      "best_ask": 99.85820655317883,
+      "spread": 0.015991450100869997,
+      "mid_price": 99.8502108281284
+    },
+    {
+      "best_bid": 99.74465641698272,
+      "best_ask": 99.80336464841413,
+      "spread": 0.05870823143141024,
+      "mid_price": 99.77401053269843
+    },
+    {
+      "best_bid": 100.21500572246606,
+      "best_ask": 100.2585836446467,
+      "spread": 0.0435779221806456,
+      "mid_price": 100.23679468355638
+    },
+    {
+      "best_bid": 100.23666574436544,
+      "best_ask": 100.2513122015844,
+      "spread": 0.01464645721895863,
+      "mid_price": 100.24398897297492
+    },
+    {
+      "best_bid": 99.76748712250443,
+      "best_ask": 99.8207214321061,
+      "spread": 0.0532343096016632,
+      "mid_price": 99.79410427730527
+    }
+  ],
+  "l2_bids": [
+    {
+      "level": 1,
+      "price": 99.96107672844343,
+      "size": 25,
+      "side": "bid"
+    },
+    {
+      "level": 2,
+      "price": 99.91107672844343,
+      "size": 47,
+      "side": "bid"
+    },
+    {
+      "level": 3,
+      "price": 99.86107672844344,
+      "size": 45,
+      "side": "bid"
+    },
+    {
+      "level": 4,
+      "price": 99.81107672844342,
+      "size": 75,
+      "side": "bid"
+    },
+    {
+      "level": 5,
+      "price": 99.76107672844343,
+      "size": 11,
+      "side": "bid"
+    },
+    {
+      "level": 6,
+      "price": 99.71107672844343,
+      "size": 74,
+      "side": "bid"
+    },
+    {
+      "level": 7,
+      "price": 99.66107672844343,
+      "size": 76,
+      "side": "bid"
+    },
+    {
+      "level": 8,
+      "price": 99.61107672844344,
+      "size": 71,
+      "side": "bid"
+    },
+    {
+      "level": 9,
+      "price": 99.56107672844342,
+      "size": 35,
+      "side": "bid"
+    },
+    {
+      "level": 10,
+      "price": 99.51107672844343,
+      "size": 91,
+      "side": "bid"
+    },
+    {
+      "level": 1,
+      "price": 99.60391189406937,
+      "size": 15,
+      "side": "bid"
+    },
+    {
+      "level": 2,
+      "price": 99.55391189406937,
+      "size": 31,
+      "side": "bid"
+    },
+    {
+      "level": 3,
+      "price": 99.50391189406938,
+      "size": 24,
+      "side": "bid"
+    },
+    {
+      "level": 4,
+      "price": 99.45391189406936,
+      "size": 69,
+      "side": "bid"
+    },
+    {
+      "level": 5,
+      "price": 99.40391189406937,
+      "size": 58,
+      "side": "bid"
+    },
+    {
+      "level": 6,
+      "price": 99.35391189406937,
+      "size": 47,
+      "side": "bid"
+    },
+    {
+      "level": 7,
+      "price": 99.30391189406937,
+      "size": 54,
+      "side": "bid"
+    },
+    {
+      "level": 8,
+      "price": 99.25391189406938,
+      "size": 39,
+      "side": "bid"
+    },
+    {
+      "level": 9,
+      "price": 99.20391189406936,
+      "size": 39,
+      "side": "bid"
+    },
+    {
+      "level": 10,
+      "price": 99.15391189406937,
+      "size": 15,
+      "side": "bid"
+    },
+    {
+      "level": 1,
+      "price": 100.01913084129056,
+      "size": 89,
+      "side": "bid"
+    },
+    {
+      "level": 2,
+      "price": 99.96913084129056,
+      "size": 61,
+      "side": "bid"
+    },
+    {
+      "level": 3,
+      "price": 99.91913084129057,
+      "size": 82,
+      "side": "bid"
+    },
+    {
+      "level": 4,
+      "price": 99.86913084129056,
+      "size": 30,
+      "side": "bid"
+    },
+    {
+      "level": 5,
+      "price": 99.81913084129056,
+      "size": 75,
+      "side": "bid"
+    },
+    {
+      "level": 6,
+      "price": 99.76913084129056,
+      "size": 44,
+      "side": "bid"
+    },
+    {
+      "level": 7,
+      "price": 99.71913084129056,
+      "size": 87,
+      "side": "bid"
+    },
+    {
+      "level": 8,
+      "price": 99.66913084129057,
+      "size": 91,
+      "side": "bid"
+    },
+    {
+      "level": 9,
+      "price": 99.61913084129056,
+      "size": 34,
+      "side": "bid"
+    },
+    {
+      "level": 10,
+      "price": 99.56913084129056,
+      "size": 34,
+      "side": "bid"
+    },
+    {
+      "level": 1,
+      "price": 100.32412609546643,
+      "size": 42,
+      "side": "bid"
+    },
+    {
+      "level": 2,
+      "price": 100.27412609546643,
+      "size": 23,
+      "side": "bid"
+    },
+    {
+      "level": 3,
+      "price": 100.22412609546643,
+      "size": 89,
+      "side": "bid"
+    },
+    {
+      "level": 4,
+      "price": 100.17412609546642,
+      "size": 61,
+      "side": "bid"
+    },
+    {
+      "level": 5,
+      "price": 100.12412609546642,
+      "size": 50,
+      "side": "bid"
+    },
+    {
+      "level": 6,
+      "price": 100.07412609546643,
+      "size": 34,
+      "side": "bid"
+    },
+    {
+      "level": 7,
+      "price": 100.02412609546643,
+      "size": 17,
+      "side": "bid"
+    },
+    {
+      "level": 8,
+      "price": 99.97412609546643,
+      "size": 77,
+      "side": "bid"
+    },
+    {
+      "level": 9,
+      "price": 99.92412609546642,
+      "size": 88,
+      "side": "bid"
+    },
+    {
+      "level": 10,
+      "price": 99.87412609546642,
+      "size": 54,
+      "side": "bid"
+    },
+    {
+      "level": 1,
+      "price": 100.12665779644237,
+      "size": 21,
+      "side": "bid"
+    },
+    {
+      "level": 2,
+      "price": 100.07665779644238,
+      "size": 22,
+      "side": "bid"
+    },
+    {
+      "level": 3,
+      "price": 100.02665779644238,
+      "size": 87,
+      "side": "bid"
+    },
+    {
+      "level": 4,
+      "price": 99.97665779644237,
+      "size": 27,
+      "side": "bid"
+    },
+    {
+      "level": 5,
+      "price": 99.92665779644237,
+      "size": 72,
+      "side": "bid"
+    },
+    {
+      "level": 6,
+      "price": 99.87665779644237,
+      "size": 41,
+      "side": "bid"
+    },
+    {
+      "level": 7,
+      "price": 99.82665779644238,
+      "size": 11,
+      "side": "bid"
+    },
+    {
+      "level": 8,
+      "price": 99.77665779644238,
+      "size": 32,
+      "side": "bid"
+    },
+    {
+      "level": 9,
+      "price": 99.72665779644237,
+      "size": 40,
+      "side": "bid"
+    },
+    {
+      "level": 10,
+      "price": 99.67665779644237,
+      "size": 92,
+      "side": "bid"
+    },
+    {
+      "level": 1,
+      "price": 100.16259372518854,
+      "size": 19,
+      "side": "bid"
+    },
+    {
+      "level": 2,
+      "price": 100.11259372518855,
+      "size": 11,
+      "side": "bid"
+    },
+    {
+      "level": 3,
+      "price": 100.06259372518855,
+      "size": 59,
+      "side": "bid"
+    },
+    {
+      "level": 4,
+      "price": 100.01259372518854,
+      "size": 65,
+      "side": "bid"
+    },
+    {
+      "level": 5,
+      "price": 99.96259372518854,
+      "size": 82,
+      "side": "bid"
+    },
+    {
+      "level": 6,
+      "price": 99.91259372518854,
+      "size": 92,
+      "side": "bid"
+    },
+    {
+      "level": 7,
+      "price": 99.86259372518855,
+      "size": 30,
+      "side": "bid"
+    },
+    {
+      "level": 8,
+      "price": 99.81259372518855,
+      "size": 37,
+      "side": "bid"
+    },
+    {
+      "level": 9,
+      "price": 99.76259372518854,
+      "size": 16,
+      "side": "bid"
+    },
+    {
+      "level": 10,
+      "price": 99.71259372518854,
+      "size": 25,
+      "side": "bid"
+    },
+    {
+      "level": 1,
+      "price": 99.43768489149835,
+      "size": 13,
+      "side": "bid"
+    },
+    {
+      "level": 2,
+      "price": 99.38768489149835,
+      "size": 26,
+      "side": "bid"
+    },
+    {
+      "level": 3,
+      "price": 99.33768489149836,
+      "size": 61,
+      "side": "bid"
+    },
+    {
+      "level": 4,
+      "price": 99.28768489149834,
+      "size": 47,
+      "side": "bid"
+    },
+    {
+      "level": 5,
+      "price": 99.23768489149835,
+      "size": 72,
+      "side": "bid"
+    },
+    {
+      "level": 6,
+      "price": 99.18768489149835,
+      "size": 71,
+      "side": "bid"
+    },
+    {
+      "level": 7,
+      "price": 99.13768489149835,
+      "size": 36,
+      "side": "bid"
+    },
+    {
+      "level": 8,
+      "price": 99.08768489149836,
+      "size": 23,
+      "side": "bid"
+    },
+    {
+      "level": 9,
+      "price": 99.03768489149834,
+      "size": 95,
+      "side": "bid"
+    },
+    {
+      "level": 10,
+      "price": 98.98768489149835,
+      "size": 64,
+      "side": "bid"
+    },
+    {
+      "level": 1,
+      "price": 99.81698060773601,
+      "size": 71,
+      "side": "bid"
+    },
+    {
+      "level": 2,
+      "price": 99.76698060773602,
+      "size": 88,
+      "side": "bid"
+    },
+    {
+      "level": 3,
+      "price": 99.71698060773602,
+      "size": 19,
+      "side": "bid"
+    },
+    {
+      "level": 4,
+      "price": 99.66698060773601,
+      "size": 67,
+      "side": "bid"
+    },
+    {
+      "level": 5,
+      "price": 99.61698060773601,
+      "size": 14,
+      "side": "bid"
+    },
+    {
+      "level": 6,
+      "price": 99.56698060773601,
+      "size": 22,
+      "side": "bid"
+    },
+    {
+      "level": 7,
+      "price": 99.51698060773602,
+      "size": 99,
+      "side": "bid"
+    },
+    {
+      "level": 8,
+      "price": 99.46698060773602,
+      "size": 62,
+      "side": "bid"
+    },
+    {
+      "level": 9,
+      "price": 99.41698060773601,
+      "size": 54,
+      "side": "bid"
+    },
+    {
+      "level": 10,
+      "price": 99.36698060773601,
+      "size": 45,
+      "side": "bid"
+    },
+    {
+      "level": 1,
+      "price": 99.74279893702759,
+      "size": 69,
+      "side": "bid"
+    },
+    {
+      "level": 2,
+      "price": 99.69279893702759,
+      "size": 72,
+      "side": "bid"
+    },
+    {
+      "level": 3,
+      "price": 99.64279893702759,
+      "size": 61,
+      "side": "bid"
+    },
+    {
+      "level": 4,
+      "price": 99.59279893702758,
+      "size": 35,
+      "side": "bid"
+    },
+    {
+      "level": 5,
+      "price": 99.54279893702758,
+      "size": 43,
+      "side": "bid"
+    },
+    {
+      "level": 6,
+      "price": 99.49279893702759,
+      "size": 91,
+      "side": "bid"
+    },
+    {
+      "level": 7,
+      "price": 99.44279893702759,
+      "size": 38,
+      "side": "bid"
+    },
+    {
+      "level": 8,
+      "price": 99.39279893702759,
+      "size": 51,
+      "side": "bid"
+    },
+    {
+      "level": 9,
+      "price": 99.34279893702758,
+      "size": 51,
+      "side": "bid"
+    },
+    {
+      "level": 10,
+      "price": 99.29279893702758,
+      "size": 73,
+      "side": "bid"
+    },
+    {
+      "level": 1,
+      "price": 100.16535387677487,
+      "size": 18,
+      "side": "bid"
+    },
+    {
+      "level": 2,
+      "price": 100.11535387677488,
+      "size": 10,
+      "side": "bid"
+    },
+    {
+      "level": 3,
+      "price": 100.06535387677488,
+      "size": 69,
+      "side": "bid"
+    },
+    {
+      "level": 4,
+      "price": 100.01535387677487,
+      "size": 38,
+      "side": "bid"
+    },
+    {
+      "level": 5,
+      "price": 99.96535387677487,
+      "size": 67,
+      "side": "bid"
+    },
+    {
+      "level": 6,
+      "price": 99.91535387677487,
+      "size": 30,
+      "side": "bid"
+    },
+    {
+      "level": 7,
+      "price": 99.86535387677488,
+      "size": 84,
+      "side": "bid"
+    },
+    {
+      "level": 8,
+      "price": 99.81535387677488,
+      "size": 17,
+      "side": "bid"
+    },
+    {
+      "level": 9,
+      "price": 99.76535387677487,
+      "size": 95,
+      "side": "bid"
+    },
+    {
+      "level": 10,
+      "price": 99.71535387677487,
+      "size": 58,
+      "side": "bid"
+    },
+    {
+      "level": 1,
+      "price": 99.62816073696781,
+      "size": 26,
+      "side": "bid"
+    },
+    {
+      "level": 2,
+      "price": 99.57816073696782,
+      "size": 96,
+      "side": "bid"
+    },
+    {
+      "level": 3,
+      "price": 99.52816073696782,
+      "size": 54,
+      "side": "bid"
+    },
+    {
+      "level": 4,
+      "price": 99.47816073696781,
+      "size": 78,
+      "side": "bid"
+    },
+    {
+      "level": 5,
+      "price": 99.42816073696781,
+      "size": 53,
+      "side": "bid"
+    },
+    {
+      "level": 6,
+      "price": 99.37816073696781,
+      "size": 96,
+      "side": "bid"
+    },
+    {
+      "level": 7,
+      "price": 99.32816073696782,
+      "size": 86,
+      "side": "bid"
+    },
+    {
+      "level": 8,
+      "price": 99.27816073696782,
+      "size": 96,
+      "side": "bid"
+    },
+    {
+      "level": 9,
+      "price": 99.22816073696781,
+      "size": 10,
+      "side": "bid"
+    },
+    {
+      "level": 10,
+      "price": 99.17816073696781,
+      "size": 33,
+      "side": "bid"
+    },
+    {
+      "level": 1,
+      "price": 100.75063656464536,
+      "size": 26,
+      "side": "bid"
+    },
+    {
+      "level": 2,
+      "price": 100.70063656464536,
+      "size": 29,
+      "side": "bid"
+    },
+    {
+      "level": 3,
+      "price": 100.65063656464537,
+      "size": 67,
+      "side": "bid"
+    },
+    {
+      "level": 4,
+      "price": 100.60063656464536,
+      "size": 20,
+      "side": "bid"
+    },
+    {
+      "level": 5,
+      "price": 100.55063656464536,
+      "size": 24,
+      "side": "bid"
+    },
+    {
+      "level": 6,
+      "price": 100.50063656464536,
+      "size": 16,
+      "side": "bid"
+    },
+    {
+      "level": 7,
+      "price": 100.45063656464536,
+      "size": 60,
+      "side": "bid"
+    },
+    {
+      "level": 8,
+      "price": 100.40063656464537,
+      "size": 14,
+      "side": "bid"
+    },
+    {
+      "level": 9,
+      "price": 100.35063656464536,
+      "size": 17,
+      "side": "bid"
+    },
+    {
+      "level": 10,
+      "price": 100.30063656464536,
+      "size": 19,
+      "side": "bid"
+    },
+    {
+      "level": 1,
+      "price": 99.94342220778245,
+      "size": 90,
+      "side": "bid"
+    },
+    {
+      "level": 2,
+      "price": 99.89342220778245,
+      "size": 34,
+      "side": "bid"
+    },
+    {
+      "level": 3,
+      "price": 99.84342220778245,
+      "size": 75,
+      "side": "bid"
+    },
+    {
+      "level": 4,
+      "price": 99.79342220778244,
+      "size": 59,
+      "side": "bid"
+    },
+    {
+      "level": 5,
+      "price": 99.74342220778244,
+      "size": 58,
+      "side": "bid"
+    },
+    {
+      "level": 6,
+      "price": 99.69342220778245,
+      "size": 77,
+      "side": "bid"
+    },
+    {
+      "level": 7,
+      "price": 99.64342220778245,
+      "size": 50,
+      "side": "bid"
+    },
+    {
+      "level": 8,
+      "price": 99.59342220778245,
+      "size": 71,
+      "side": "bid"
+    },
+    {
+      "level": 9,
+      "price": 99.54342220778244,
+      "size": 30,
+      "side": "bid"
+    },
+    {
+      "level": 10,
+      "price": 99.49342220778244,
+      "size": 21,
+      "side": "bid"
+    },
+    {
+      "level": 1,
+      "price": 99.62574868494728,
+      "size": 22,
+      "side": "bid"
+    },
+    {
+      "level": 2,
+      "price": 99.57574868494729,
+      "size": 41,
+      "side": "bid"
+    },
+    {
+      "level": 3,
+      "price": 99.52574868494729,
+      "size": 41,
+      "side": "bid"
+    },
+    {
+      "level": 4,
+      "price": 99.47574868494728,
+      "size": 20,
+      "side": "bid"
+    },
+    {
+      "level": 5,
+      "price": 99.42574868494728,
+      "size": 24,
+      "side": "bid"
+    },
+    {
+      "level": 6,
+      "price": 99.37574868494728,
+      "size": 49,
+      "side": "bid"
+    },
+    {
+      "level": 7,
+      "price": 99.32574868494729,
+      "size": 64,
+      "side": "bid"
+    },
+    {
+      "level": 8,
+      "price": 99.27574868494729,
+      "size": 34,
+      "side": "bid"
+    },
+    {
+      "level": 9,
+      "price": 99.22574868494728,
+      "size": 87,
+      "side": "bid"
+    },
+    {
+      "level": 10,
+      "price": 99.17574868494728,
+      "size": 31,
+      "side": "bid"
+    },
+    {
+      "level": 1,
+      "price": 99.79956148912899,
+      "size": 93,
+      "side": "bid"
+    },
+    {
+      "level": 2,
+      "price": 99.749561489129,
+      "size": 53,
+      "side": "bid"
+    },
+    {
+      "level": 3,
+      "price": 99.699561489129,
+      "size": 60,
+      "side": "bid"
+    },
+    {
+      "level": 4,
+      "price": 99.64956148912898,
+      "size": 30,
+      "side": "bid"
+    },
+    {
+      "level": 5,
+      "price": 99.59956148912899,
+      "size": 48,
+      "side": "bid"
+    },
+    {
+      "level": 6,
+      "price": 99.54956148912899,
+      "size": 56,
+      "side": "bid"
+    },
+    {
+      "level": 7,
+      "price": 99.499561489129,
+      "size": 30,
+      "side": "bid"
+    },
+    {
+      "level": 8,
+      "price": 99.449561489129,
+      "size": 30,
+      "side": "bid"
+    },
+    {
+      "level": 9,
+      "price": 99.39956148912898,
+      "size": 55,
+      "side": "bid"
+    },
+    {
+      "level": 10,
+      "price": 99.34956148912899,
+      "size": 32,
+      "side": "bid"
+    },
+    {
+      "level": 1,
+      "price": 100.25337118558646,
+      "size": 95,
+      "side": "bid"
+    },
+    {
+      "level": 2,
+      "price": 100.20337118558646,
+      "size": 98,
+      "side": "bid"
+    },
+    {
+      "level": 3,
+      "price": 100.15337118558647,
+      "size": 38,
+      "side": "bid"
+    },
+    {
+      "level": 4,
+      "price": 100.10337118558645,
+      "size": 91,
+      "side": "bid"
+    },
+    {
+      "level": 5,
+      "price": 100.05337118558646,
+      "size": 38,
+      "side": "bid"
+    },
+    {
+      "level": 6,
+      "price": 100.00337118558646,
+      "size": 88,
+      "side": "bid"
+    },
+    {
+      "level": 7,
+      "price": 99.95337118558646,
+      "size": 36,
+      "side": "bid"
+    },
+    {
+      "level": 8,
+      "price": 99.90337118558647,
+      "size": 88,
+      "side": "bid"
+    },
+    {
+      "level": 9,
+      "price": 99.85337118558645,
+      "size": 97,
+      "side": "bid"
+    },
+    {
+      "level": 10,
+      "price": 99.80337118558646,
+      "size": 86,
+      "side": "bid"
+    },
+    {
+      "level": 1,
+      "price": 99.92232449477092,
+      "size": 52,
+      "side": "bid"
+    },
+    {
+      "level": 2,
+      "price": 99.87232449477092,
+      "size": 70,
+      "side": "bid"
+    },
+    {
+      "level": 3,
+      "price": 99.82232449477092,
+      "size": 12,
+      "side": "bid"
+    },
+    {
+      "level": 4,
+      "price": 99.77232449477091,
+      "size": 28,
+      "side": "bid"
+    },
+    {
+      "level": 5,
+      "price": 99.72232449477092,
+      "size": 38,
+      "side": "bid"
+    },
+    {
+      "level": 6,
+      "price": 99.67232449477092,
+      "size": 48,
+      "side": "bid"
+    },
+    {
+      "level": 7,
+      "price": 99.62232449477092,
+      "size": 17,
+      "side": "bid"
+    },
+    {
+      "level": 8,
+      "price": 99.57232449477092,
+      "size": 25,
+      "side": "bid"
+    },
+    {
+      "level": 9,
+      "price": 99.52232449477091,
+      "size": 10,
+      "side": "bid"
+    },
+    {
+      "level": 10,
+      "price": 99.47232449477092,
+      "size": 12,
+      "side": "bid"
+    },
+    {
+      "level": 1,
+      "price": 99.59258680281535,
+      "size": 13,
+      "side": "bid"
+    },
+    {
+      "level": 2,
+      "price": 99.54258680281535,
+      "size": 98,
+      "side": "bid"
+    },
+    {
+      "level": 3,
+      "price": 99.49258680281535,
+      "size": 30,
+      "side": "bid"
+    },
+    {
+      "level": 4,
+      "price": 99.44258680281534,
+      "size": 36,
+      "side": "bid"
+    },
+    {
+      "level": 5,
+      "price": 99.39258680281534,
+      "size": 50,
+      "side": "bid"
+    },
+    {
+      "level": 6,
+      "price": 99.34258680281535,
+      "size": 18,
+      "side": "bid"
+    },
+    {
+      "level": 7,
+      "price": 99.29258680281535,
+      "size": 95,
+      "side": "bid"
+    },
+    {
+      "level": 8,
+      "price": 99.24258680281535,
+      "size": 67,
+      "side": "bid"
+    },
+    {
+      "level": 9,
+      "price": 99.19258680281534,
+      "size": 21,
+      "side": "bid"
+    },
+    {
+      "level": 10,
+      "price": 99.14258680281534,
+      "size": 87,
+      "side": "bid"
+    },
+    {
+      "level": 1,
+      "price": 99.55220415857116,
+      "size": 43,
+      "side": "bid"
+    },
+    {
+      "level": 2,
+      "price": 99.50220415857116,
+      "size": 29,
+      "side": "bid"
+    },
+    {
+      "level": 3,
+      "price": 99.45220415857116,
+      "size": 25,
+      "side": "bid"
+    },
+    {
+      "level": 4,
+      "price": 99.40220415857115,
+      "size": 65,
+      "side": "bid"
+    },
+    {
+      "level": 5,
+      "price": 99.35220415857115,
+      "size": 67,
+      "side": "bid"
+    },
+    {
+      "level": 6,
+      "price": 99.30220415857116,
+      "size": 13,
+      "side": "bid"
+    },
+    {
+      "level": 7,
+      "price": 99.25220415857116,
+      "size": 19,
+      "side": "bid"
+    },
+    {
+      "level": 8,
+      "price": 99.20220415857116,
+      "size": 35,
+      "side": "bid"
+    },
+    {
+      "level": 9,
+      "price": 99.15220415857115,
+      "size": 94,
+      "side": "bid"
+    },
+    {
+      "level": 10,
+      "price": 99.10220415857115,
+      "size": 30,
+      "side": "bid"
+    },
+    {
+      "level": 1,
+      "price": 100.16288921036885,
+      "size": 47,
+      "side": "bid"
+    },
+    {
+      "level": 2,
+      "price": 100.11288921036885,
+      "size": 13,
+      "side": "bid"
+    },
+    {
+      "level": 3,
+      "price": 100.06288921036885,
+      "size": 66,
+      "side": "bid"
+    },
+    {
+      "level": 4,
+      "price": 100.01288921036884,
+      "size": 29,
+      "side": "bid"
+    },
+    {
+      "level": 5,
+      "price": 99.96288921036884,
+      "size": 80,
+      "side": "bid"
+    },
+    {
+      "level": 6,
+      "price": 99.91288921036885,
+      "size": 23,
+      "side": "bid"
+    },
+    {
+      "level": 7,
+      "price": 99.86288921036885,
+      "size": 97,
+      "side": "bid"
+    },
+    {
+      "level": 8,
+      "price": 99.81288921036885,
+      "size": 67,
+      "side": "bid"
+    },
+    {
+      "level": 9,
+      "price": 99.76288921036884,
+      "size": 13,
+      "side": "bid"
+    },
+    {
+      "level": 10,
+      "price": 99.71288921036884,
+      "size": 43,
+      "side": "bid"
+    }
+  ],
+  "l2_asks": [
+    {
+      "level": 1,
+      "price": 99.97112820243572,
+      "size": 85,
+      "side": "ask"
+    },
+    {
+      "level": 2,
+      "price": 100.02112820243572,
+      "size": 23,
+      "side": "ask"
+    },
+    {
+      "level": 3,
+      "price": 100.07112820243572,
+      "size": 32,
+      "side": "ask"
+    },
+    {
+      "level": 4,
+      "price": 100.12112820243573,
+      "size": 94,
+      "side": "ask"
+    },
+    {
+      "level": 5,
+      "price": 100.17112820243572,
+      "size": 82,
+      "side": "ask"
+    },
+    {
+      "level": 6,
+      "price": 100.22112820243572,
+      "size": 84,
+      "side": "ask"
+    },
+    {
+      "level": 7,
+      "price": 100.27112820243572,
+      "size": 61,
+      "side": "ask"
+    },
+    {
+      "level": 8,
+      "price": 100.32112820243572,
+      "size": 32,
+      "side": "ask"
+    },
+    {
+      "level": 9,
+      "price": 100.37112820243573,
+      "size": 77,
+      "side": "ask"
+    },
+    {
+      "level": 10,
+      "price": 100.42112820243572,
+      "size": 64,
+      "side": "ask"
+    },
+    {
+      "level": 1,
+      "price": 99.66112707581726,
+      "size": 44,
+      "side": "ask"
+    },
+    {
+      "level": 2,
+      "price": 99.71112707581726,
+      "size": 52,
+      "side": "ask"
+    },
+    {
+      "level": 3,
+      "price": 99.76112707581726,
+      "size": 95,
+      "side": "ask"
+    },
+    {
+      "level": 4,
+      "price": 99.81112707581727,
+      "size": 21,
+      "side": "ask"
+    },
+    {
+      "level": 5,
+      "price": 99.86112707581727,
+      "size": 51,
+      "side": "ask"
+    },
+    {
+      "level": 6,
+      "price": 99.91112707581726,
+      "size": 91,
+      "side": "ask"
+    },
+    {
+      "level": 7,
+      "price": 99.96112707581726,
+      "size": 44,
+      "side": "ask"
+    },
+    {
+      "level": 8,
+      "price": 100.01112707581726,
+      "size": 97,
+      "side": "ask"
+    },
+    {
+      "level": 9,
+      "price": 100.06112707581727,
+      "size": 87,
+      "side": "ask"
+    },
+    {
+      "level": 10,
+      "price": 100.11112707581727,
+      "size": 76,
+      "side": "ask"
+    },
+    {
+      "level": 1,
+      "price": 100.03424052227525,
+      "size": 16,
+      "side": "ask"
+    },
+    {
+      "level": 2,
+      "price": 100.08424052227525,
+      "size": 23,
+      "side": "ask"
+    },
+    {
+      "level": 3,
+      "price": 100.13424052227525,
+      "size": 24,
+      "side": "ask"
+    },
+    {
+      "level": 4,
+      "price": 100.18424052227526,
+      "size": 44,
+      "side": "ask"
+    },
+    {
+      "level": 5,
+      "price": 100.23424052227526,
+      "size": 11,
+      "side": "ask"
+    },
+    {
+      "level": 6,
+      "price": 100.28424052227525,
+      "size": 91,
+      "side": "ask"
+    },
+    {
+      "level": 7,
+      "price": 100.33424052227525,
+      "size": 29,
+      "side": "ask"
+    },
+    {
+      "level": 8,
+      "price": 100.38424052227525,
+      "size": 19,
+      "side": "ask"
+    },
+    {
+      "level": 9,
+      "price": 100.43424052227526,
+      "size": 75,
+      "side": "ask"
+    },
+    {
+      "level": 10,
+      "price": 100.48424052227526,
+      "size": 63,
+      "side": "ask"
+    },
+    {
+      "level": 1,
+      "price": 100.37542213375642,
+      "size": 45,
+      "side": "ask"
+    },
+    {
+      "level": 2,
+      "price": 100.42542213375641,
+      "size": 74,
+      "side": "ask"
+    },
+    {
+      "level": 3,
+      "price": 100.47542213375641,
+      "size": 63,
+      "side": "ask"
+    },
+    {
+      "level": 4,
+      "price": 100.52542213375642,
+      "size": 12,
+      "side": "ask"
+    },
+    {
+      "level": 5,
+      "price": 100.57542213375642,
+      "size": 15,
+      "side": "ask"
+    },
+    {
+      "level": 6,
+      "price": 100.62542213375642,
+      "size": 22,
+      "side": "ask"
+    },
+    {
+      "level": 7,
+      "price": 100.67542213375641,
+      "size": 30,
+      "side": "ask"
+    },
+    {
+      "level": 8,
+      "price": 100.72542213375641,
+      "size": 34,
+      "side": "ask"
+    },
+    {
+      "level": 9,
+      "price": 100.77542213375642,
+      "size": 77,
+      "side": "ask"
+    },
+    {
+      "level": 10,
+      "price": 100.82542213375642,
+      "size": 69,
+      "side": "ask"
+    },
+    {
+      "level": 1,
+      "price": 100.15157651799188,
+      "size": 41,
+      "side": "ask"
+    },
+    {
+      "level": 2,
+      "price": 100.20157651799188,
+      "size": 40,
+      "side": "ask"
+    },
+    {
+      "level": 3,
+      "price": 100.25157651799188,
+      "size": 29,
+      "side": "ask"
+    },
+    {
+      "level": 4,
+      "price": 100.30157651799189,
+      "size": 69,
+      "side": "ask"
+    },
+    {
+      "level": 5,
+      "price": 100.35157651799189,
+      "size": 15,
+      "side": "ask"
+    },
+    {
+      "level": 6,
+      "price": 100.40157651799188,
+      "size": 52,
+      "side": "ask"
+    },
+    {
+      "level": 7,
+      "price": 100.45157651799188,
+      "size": 69,
+      "side": "ask"
+    },
+    {
+      "level": 8,
+      "price": 100.50157651799188,
+      "size": 92,
+      "side": "ask"
+    },
+    {
+      "level": 9,
+      "price": 100.55157651799189,
+      "size": 14,
+      "side": "ask"
+    },
+    {
+      "level": 10,
+      "price": 100.60157651799189,
+      "size": 43,
+      "side": "ask"
+    },
+    {
+      "level": 1,
+      "price": 100.18409640934013,
+      "size": 98,
+      "side": "ask"
+    },
+    {
+      "level": 2,
+      "price": 100.23409640934013,
+      "size": 20,
+      "side": "ask"
+    },
+    {
+      "level": 3,
+      "price": 100.28409640934012,
+      "size": 40,
+      "side": "ask"
+    },
+    {
+      "level": 4,
+      "price": 100.33409640934013,
+      "size": 88,
+      "side": "ask"
+    },
+    {
+      "level": 5,
+      "price": 100.38409640934013,
+      "size": 96,
+      "side": "ask"
+    },
+    {
+      "level": 6,
+      "price": 100.43409640934013,
+      "size": 18,
+      "side": "ask"
+    },
+    {
+      "level": 7,
+      "price": 100.48409640934013,
+      "size": 82,
+      "side": "ask"
+    },
+    {
+      "level": 8,
+      "price": 100.53409640934012,
+      "size": 71,
+      "side": "ask"
+    },
+    {
+      "level": 9,
+      "price": 100.58409640934013,
+      "size": 89,
+      "side": "ask"
+    },
+    {
+      "level": 10,
+      "price": 100.63409640934013,
+      "size": 13,
+      "side": "ask"
+    },
+    {
+      "level": 1,
+      "price": 99.45425164781881,
+      "size": 49,
+      "side": "ask"
+    },
+    {
+      "level": 2,
+      "price": 99.5042516478188,
+      "size": 61,
+      "side": "ask"
+    },
+    {
+      "level": 3,
+      "price": 99.5542516478188,
+      "size": 45,
+      "side": "ask"
+    },
+    {
+      "level": 4,
+      "price": 99.60425164781881,
+      "size": 59,
+      "side": "ask"
+    },
+    {
+      "level": 5,
+      "price": 99.65425164781881,
+      "size": 72,
+      "side": "ask"
+    },
+    {
+      "level": 6,
+      "price": 99.70425164781881,
+      "size": 16,
+      "side": "ask"
+    },
+    {
+      "level": 7,
+      "price": 99.7542516478188,
+      "size": 95,
+      "side": "ask"
+    },
+    {
+      "level": 8,
+      "price": 99.8042516478188,
+      "size": 80,
+      "side": "ask"
+    },
+    {
+      "level": 9,
+      "price": 99.85425164781881,
+      "size": 14,
+      "side": "ask"
+    },
+    {
+      "level": 10,
+      "price": 99.90425164781881,
+      "size": 11,
+      "side": "ask"
+    },
+    {
+      "level": 1,
+      "price": 99.84301774475793,
+      "size": 30,
+      "side": "ask"
+    },
+    {
+      "level": 2,
+      "price": 99.89301774475793,
+      "size": 30,
+      "side": "ask"
+    },
+    {
+      "level": 3,
+      "price": 99.94301774475792,
+      "size": 96,
+      "side": "ask"
+    },
+    {
+      "level": 4,
+      "price": 99.99301774475794,
+      "size": 48,
+      "side": "ask"
+    },
+    {
+      "level": 5,
+      "price": 100.04301774475793,
+      "size": 74,
+      "side": "ask"
+    },
+    {
+      "level": 6,
+      "price": 100.09301774475793,
+      "size": 94,
+      "side": "ask"
+    },
+    {
+      "level": 7,
+      "price": 100.14301774475793,
+      "size": 94,
+      "side": "ask"
+    },
+    {
+      "level": 8,
+      "price": 100.19301774475792,
+      "size": 91,
+      "side": "ask"
+    },
+    {
+      "level": 9,
+      "price": 100.24301774475794,
+      "size": 41,
+      "side": "ask"
+    },
+    {
+      "level": 10,
+      "price": 100.29301774475793,
+      "size": 90,
+      "side": "ask"
+    },
+    {
+      "level": 1,
+      "price": 99.78902007065828,
+      "size": 20,
+      "side": "ask"
+    },
+    {
+      "level": 2,
+      "price": 99.83902007065828,
+      "size": 30,
+      "side": "ask"
+    },
+    {
+      "level": 3,
+      "price": 99.88902007065828,
+      "size": 64,
+      "side": "ask"
+    },
+    {
+      "level": 4,
+      "price": 99.93902007065829,
+      "size": 77,
+      "side": "ask"
+    },
+    {
+      "level": 5,
+      "price": 99.98902007065828,
+      "size": 61,
+      "side": "ask"
+    },
+    {
+      "level": 6,
+      "price": 100.03902007065828,
+      "size": 61,
+      "side": "ask"
+    },
+    {
+      "level": 7,
+      "price": 100.08902007065828,
+      "size": 47,
+      "side": "ask"
+    },
+    {
+      "level": 8,
+      "price": 100.13902007065828,
+      "size": 30,
+      "side": "ask"
+    },
+    {
+      "level": 9,
+      "price": 100.18902007065829,
+      "size": 22,
+      "side": "ask"
+    },
+    {
+      "level": 10,
+      "price": 100.23902007065828,
+      "size": 26,
+      "side": "ask"
+    },
+    {
+      "level": 1,
+      "price": 100.2187600174494,
+      "size": 50,
+      "side": "ask"
+    },
+    {
+      "level": 2,
+      "price": 100.2687600174494,
+      "size": 11,
+      "side": "ask"
+    },
+    {
+      "level": 3,
+      "price": 100.31876001744939,
+      "size": 57,
+      "side": "ask"
+    },
+    {
+      "level": 4,
+      "price": 100.3687600174494,
+      "size": 19,
+      "side": "ask"
+    },
+    {
+      "level": 5,
+      "price": 100.4187600174494,
+      "size": 69,
+      "side": "ask"
+    },
+    {
+      "level": 6,
+      "price": 100.4687600174494,
+      "size": 37,
+      "side": "ask"
+    },
+    {
+      "level": 7,
+      "price": 100.5187600174494,
+      "size": 43,
+      "side": "ask"
+    },
+    {
+      "level": 8,
+      "price": 100.56876001744939,
+      "size": 68,
+      "side": "ask"
+    },
+    {
+      "level": 9,
+      "price": 100.6187600174494,
+      "size": 81,
+      "side": "ask"
+    },
+    {
+      "level": 10,
+      "price": 100.6687600174494,
+      "size": 88,
+      "side": "ask"
+    },
+    {
+      "level": 1,
+      "price": 99.67390693897794,
+      "size": 69,
+      "side": "ask"
+    },
+    {
+      "level": 2,
+      "price": 99.72390693897793,
+      "size": 97,
+      "side": "ask"
+    },
+    {
+      "level": 3,
+      "price": 99.77390693897793,
+      "size": 92,
+      "side": "ask"
+    },
+    {
+      "level": 4,
+      "price": 99.82390693897794,
+      "size": 41,
+      "side": "ask"
+    },
+    {
+      "level": 5,
+      "price": 99.87390693897794,
+      "size": 74,
+      "side": "ask"
+    },
+    {
+      "level": 6,
+      "price": 99.92390693897794,
+      "size": 17,
+      "side": "ask"
+    },
+    {
+      "level": 7,
+      "price": 99.97390693897793,
+      "size": 81,
+      "side": "ask"
+    },
+    {
+      "level": 8,
+      "price": 100.02390693897793,
+      "size": 52,
+      "side": "ask"
+    },
+    {
+      "level": 9,
+      "price": 100.07390693897794,
+      "size": 60,
+      "side": "ask"
+    },
+    {
+      "level": 10,
+      "price": 100.12390693897794,
+      "size": 33,
+      "side": "ask"
+    },
+    {
+      "level": 1,
+      "price": 100.78779820493486,
+      "size": 14,
+      "side": "ask"
+    },
+    {
+      "level": 2,
+      "price": 100.83779820493486,
+      "size": 30,
+      "side": "ask"
+    },
+    {
+      "level": 3,
+      "price": 100.88779820493485,
+      "size": 40,
+      "side": "ask"
+    },
+    {
+      "level": 4,
+      "price": 100.93779820493486,
+      "size": 61,
+      "side": "ask"
+    },
+    {
+      "level": 5,
+      "price": 100.98779820493486,
+      "size": 92,
+      "side": "ask"
+    },
+    {
+      "level": 6,
+      "price": 101.03779820493486,
+      "size": 37,
+      "side": "ask"
+    },
+    {
+      "level": 7,
+      "price": 101.08779820493486,
+      "size": 67,
+      "side": "ask"
+    },
+    {
+      "level": 8,
+      "price": 101.13779820493485,
+      "size": 14,
+      "side": "ask"
+    },
+    {
+      "level": 9,
+      "price": 101.18779820493486,
+      "size": 73,
+      "side": "ask"
+    },
+    {
+      "level": 10,
+      "price": 101.23779820493486,
+      "size": 47,
+      "side": "ask"
+    },
+    {
+      "level": 1,
+      "price": 99.9613844946964,
+      "size": 17,
+      "side": "ask"
+    },
+    {
+      "level": 2,
+      "price": 100.0113844946964,
+      "size": 82,
+      "side": "ask"
+    },
+    {
+      "level": 3,
+      "price": 100.0613844946964,
+      "size": 88,
+      "side": "ask"
+    },
+    {
+      "level": 4,
+      "price": 100.11138449469641,
+      "size": 76,
+      "side": "ask"
+    },
+    {
+      "level": 5,
+      "price": 100.1613844946964,
+      "size": 45,
+      "side": "ask"
+    },
+    {
+      "level": 6,
+      "price": 100.2113844946964,
+      "size": 87,
+      "side": "ask"
+    },
+    {
+      "level": 7,
+      "price": 100.2613844946964,
+      "size": 98,
+      "side": "ask"
+    },
+    {
+      "level": 8,
+      "price": 100.3113844946964,
+      "size": 19,
+      "side": "ask"
+    },
+    {
+      "level": 9,
+      "price": 100.36138449469641,
+      "size": 45,
+      "side": "ask"
+    },
+    {
+      "level": 10,
+      "price": 100.4113844946964,
+      "size": 11,
+      "side": "ask"
+    },
+    {
+      "level": 1,
+      "price": 99.66226640463368,
+      "size": 62,
+      "side": "ask"
+    },
+    {
+      "level": 2,
+      "price": 99.71226640463368,
+      "size": 25,
+      "side": "ask"
+    },
+    {
+      "level": 3,
+      "price": 99.76226640463368,
+      "size": 41,
+      "side": "ask"
+    },
+    {
+      "level": 4,
+      "price": 99.81226640463369,
+      "size": 19,
+      "side": "ask"
+    },
+    {
+      "level": 5,
+      "price": 99.86226640463369,
+      "size": 26,
+      "side": "ask"
+    },
+    {
+      "level": 6,
+      "price": 99.91226640463368,
+      "size": 27,
+      "side": "ask"
+    },
+    {
+      "level": 7,
+      "price": 99.96226640463368,
+      "size": 82,
+      "side": "ask"
+    },
+    {
+      "level": 8,
+      "price": 100.01226640463368,
+      "size": 68,
+      "side": "ask"
+    },
+    {
+      "level": 9,
+      "price": 100.06226640463369,
+      "size": 98,
+      "side": "ask"
+    },
+    {
+      "level": 10,
+      "price": 100.11226640463369,
+      "size": 39,
+      "side": "ask"
+    },
+    {
+      "level": 1,
+      "price": 99.81045458375291,
+      "size": 94,
+      "side": "ask"
+    },
+    {
+      "level": 2,
+      "price": 99.86045458375291,
+      "size": 41,
+      "side": "ask"
+    },
+    {
+      "level": 3,
+      "price": 99.91045458375291,
+      "size": 55,
+      "side": "ask"
+    },
+    {
+      "level": 4,
+      "price": 99.96045458375292,
+      "size": 41,
+      "side": "ask"
+    },
+    {
+      "level": 5,
+      "price": 100.01045458375292,
+      "size": 21,
+      "side": "ask"
+    },
+    {
+      "level": 6,
+      "price": 100.06045458375291,
+      "size": 27,
+      "side": "ask"
+    },
+    {
+      "level": 7,
+      "price": 100.11045458375291,
+      "size": 22,
+      "side": "ask"
+    },
+    {
+      "level": 8,
+      "price": 100.16045458375291,
+      "size": 17,
+      "side": "ask"
+    },
+    {
+      "level": 9,
+      "price": 100.21045458375292,
+      "size": 16,
+      "side": "ask"
+    },
+    {
+      "level": 10,
+      "price": 100.26045458375292,
+      "size": 84,
+      "side": "ask"
+    },
+    {
+      "level": 1,
+      "price": 100.30896298733445,
+      "size": 31,
+      "side": "ask"
+    },
+    {
+      "level": 2,
+      "price": 100.35896298733445,
+      "size": 31,
+      "side": "ask"
+    },
+    {
+      "level": 3,
+      "price": 100.40896298733445,
+      "size": 22,
+      "side": "ask"
+    },
+    {
+      "level": 4,
+      "price": 100.45896298733446,
+      "size": 11,
+      "side": "ask"
+    },
+    {
+      "level": 5,
+      "price": 100.50896298733446,
+      "size": 94,
+      "side": "ask"
+    },
+    {
+      "level": 6,
+      "price": 100.55896298733445,
+      "size": 61,
+      "side": "ask"
+    },
+    {
+      "level": 7,
+      "price": 100.60896298733445,
+      "size": 59,
+      "side": "ask"
+    },
+    {
+      "level": 8,
+      "price": 100.65896298733445,
+      "size": 32,
+      "side": "ask"
+    },
+    {
+      "level": 9,
+      "price": 100.70896298733446,
+      "size": 53,
+      "side": "ask"
+    },
+    {
+      "level": 10,
+      "price": 100.75896298733446,
+      "size": 31,
+      "side": "ask"
+    },
+    {
+      "level": 1,
+      "price": 99.9807000579516,
+      "size": 46,
+      "side": "ask"
+    },
+    {
+      "level": 2,
+      "price": 100.03070005795159,
+      "size": 65,
+      "side": "ask"
+    },
+    {
+      "level": 3,
+      "price": 100.08070005795159,
+      "size": 72,
+      "side": "ask"
+    },
+    {
+      "level": 4,
+      "price": 100.1307000579516,
+      "size": 32,
+      "side": "ask"
+    },
+    {
+      "level": 5,
+      "price": 100.1807000579516,
+      "size": 39,
+      "side": "ask"
+    },
+    {
+      "level": 6,
+      "price": 100.2307000579516,
+      "size": 34,
+      "side": "ask"
+    },
+    {
+      "level": 7,
+      "price": 100.28070005795159,
+      "size": 67,
+      "side": "ask"
+    },
+    {
+      "level": 8,
+      "price": 100.33070005795159,
+      "size": 81,
+      "side": "ask"
+    },
+    {
+      "level": 9,
+      "price": 100.3807000579516,
+      "size": 14,
+      "side": "ask"
+    },
+    {
+      "level": 10,
+      "price": 100.4307000579516,
+      "size": 74,
+      "side": "ask"
+    },
+    {
+      "level": 1,
+      "price": 99.60264839457368,
+      "size": 73,
+      "side": "ask"
+    },
+    {
+      "level": 2,
+      "price": 99.65264839457367,
+      "size": 19,
+      "side": "ask"
+    },
+    {
+      "level": 3,
+      "price": 99.70264839457367,
+      "size": 55,
+      "side": "ask"
+    },
+    {
+      "level": 4,
+      "price": 99.75264839457368,
+      "size": 75,
+      "side": "ask"
+    },
+    {
+      "level": 5,
+      "price": 99.80264839457368,
+      "size": 22,
+      "side": "ask"
+    },
+    {
+      "level": 6,
+      "price": 99.85264839457368,
+      "size": 45,
+      "side": "ask"
+    },
+    {
+      "level": 7,
+      "price": 99.90264839457367,
+      "size": 99,
+      "side": "ask"
+    },
+    {
+      "level": 8,
+      "price": 99.95264839457367,
+      "size": 63,
+      "side": "ask"
+    },
+    {
+      "level": 9,
+      "price": 100.00264839457368,
+      "size": 90,
+      "side": "ask"
+    },
+    {
+      "level": 10,
+      "price": 100.05264839457368,
+      "size": 23,
+      "side": "ask"
+    },
+    {
+      "level": 1,
+      "price": 99.59212052182727,
+      "size": 62,
+      "side": "ask"
+    },
+    {
+      "level": 2,
+      "price": 99.64212052182727,
+      "size": 84,
+      "side": "ask"
+    },
+    {
+      "level": 3,
+      "price": 99.69212052182726,
+      "size": 79,
+      "side": "ask"
+    },
+    {
+      "level": 4,
+      "price": 99.74212052182727,
+      "size": 92,
+      "side": "ask"
+    },
+    {
+      "level": 5,
+      "price": 99.79212052182727,
+      "size": 13,
+      "side": "ask"
+    },
+    {
+      "level": 6,
+      "price": 99.84212052182727,
+      "size": 29,
+      "side": "ask"
+    },
+    {
+      "level": 7,
+      "price": 99.89212052182727,
+      "size": 33,
+      "side": "ask"
+    },
+    {
+      "level": 8,
+      "price": 99.94212052182726,
+      "size": 46,
+      "side": "ask"
+    },
+    {
+      "level": 9,
+      "price": 99.99212052182727,
+      "size": 63,
+      "side": "ask"
+    },
+    {
+      "level": 10,
+      "price": 100.04212052182727,
+      "size": 83,
+      "side": "ask"
+    },
+    {
+      "level": 1,
+      "price": 100.20080984399802,
+      "size": 55,
+      "side": "ask"
+    },
+    {
+      "level": 2,
+      "price": 100.25080984399801,
+      "size": 69,
+      "side": "ask"
+    },
+    {
+      "level": 3,
+      "price": 100.30080984399801,
+      "size": 54,
+      "side": "ask"
+    },
+    {
+      "level": 4,
+      "price": 100.35080984399802,
+      "size": 26,
+      "side": "ask"
+    },
+    {
+      "level": 5,
+      "price": 100.40080984399802,
+      "size": 13,
+      "side": "ask"
+    },
+    {
+      "level": 6,
+      "price": 100.45080984399802,
+      "size": 12,
+      "side": "ask"
+    },
+    {
+      "level": 7,
+      "price": 100.50080984399801,
+      "size": 89,
+      "side": "ask"
+    },
+    {
+      "level": 8,
+      "price": 100.55080984399801,
+      "size": 64,
+      "side": "ask"
+    },
+    {
+      "level": 9,
+      "price": 100.60080984399802,
+      "size": 33,
+      "side": "ask"
+    },
+    {
+      "level": 10,
+      "price": 100.65080984399802,
+      "size": 39,
+      "side": "ask"
+    }
+  ],
+  "metrics": {
+    "vwap": 99.97477693819876,
+    "spread_metrics": {
+      "mean_spread": 0.03405786692431533,
+      "median_spread": 0.034081505325019634,
+      "min_spread": 0.010051473992291449,
+      "max_spread": 0.05977402453521563,
+      "spread_std": 0.014014093223122337,
+      "spread_tightness_ratio": 0.0003405197511930574
+    },
+    "mid_price_volatility": 3.9291789268284814,
+    "trade_price_volatility": 5.7232837020368565
+  },
+  "validation": {
+    "vwap_in_bounds": "True",
+    "spread_non_negative": "True",
+    "mid_vol_lt_trade_vol": true
+  }
+}
