@@ -1,8 +1,3 @@
-Here is a very highly detailed **README.md** file. This document is designed to serve as comprehensive documentation for your WiDS 5.0 submission, accurately reflecting the file structure, software architecture, agent logic, and mathematical models evident in your repository sources.
-
----
-
-````markdown
 # Citadel: The Algorithmic Black Box (WiDS 5.0)
 
 ## 📌 Project Overview
@@ -154,4 +149,7 @@ The project places a heavy emphasis on realistic system architecture. Refer to t
 - **Data Flow**: How orders move from Agents -> Event Loop -> Matching Engine -> Tape.
 
 ---
-````
+
+```
+
+```
