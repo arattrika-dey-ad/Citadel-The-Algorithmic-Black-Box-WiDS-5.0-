@@ -1,123 +1,157 @@
-# Citadel: The Algorithmic Black Box (WiDS 5.0)
-
-## Project Overview
-
-This repository contains the complete simulation suite for the **WiDS 5.0 (Winter in Data Science)** project: **"Citadel: The Algorithmic Black Box"**.
-
-The project constructs a realistic financial exchange simulator from scratch. It simulates market microstructure, including order book dynamics, matching engines, and autonomous trading agents. The development tracks a progression from stochastic mathematical modelling to a modular, object-oriented software system.
-
-- **Repository Owner:** arattrika-dey-ad
-- **Core Language:** Python (Jupyter Notebooks)
-- **Performance Optimization:** C++ (Order Book)
-- **Architecture:** Event-Driven, Agent-Based Simulation
+Here is a very highly detailed **README.md** file. This document is designed to serve as comprehensive documentation for your WiDS 5.0 submission, accurately reflecting the file structure, software architecture, agent logic, and mathematical models evident in your repository sources.
 
 ---
 
-## Repository Structure & Module Breakdown
+````markdown
+# Citadel: The Algorithmic Black Box (WiDS 5.0)
 
-The codebase is organized chronologically to demonstrate the evolution of the system.
+## 📌 Project Overview
 
-### Week 0: Quantitative Foundations
+This repository contains the official solution for the **WiDS 5.0 Datathon Challenge: "Citadel: The Algorithmic Black Box"**.
 
-_Focus: Mathematical modelling of asset pricing and risk._
+The project is a full-stack financial market simulator designed to model market microstructure, order book dynamics, and algorithmic trading strategies. The development journey tracks the evolution from theoretical stochastic modelling to a high-performance, event-driven exchange simulator implemented in **Python** with **C++** optimizations.
 
-Before building the exchange, this module establishes the mathematical laws governing simulated stock prices.
+- **Repository Owner:** arattrika-dey-ad
+- **Domain:** Quantitative Finance, Market Microstructure, System Architecture
+- **Core Technologies:** Python (Simulation Engine), C++ (Order Book Optimization), Jupyter Notebooks (Analysis).
+
+---
+
+## 📂 Repository Structure & Roadmap
+
+The codebase is organized chronologically into weekly modules, representing the phases of the engineering lifecycle.
+
+### 🔹 Week 0: Quantitative Foundations
+
+_Focus: Mathematical modelling of risk, randomness, and asset pricing._
+
+Before implementing the exchange, this module establishes the stochastic laws governing the simulation.
 
 - **Stochastic Processes:**
-  - `Day_3_GBM_Plots.ipynb`: Implements **Geometric Brownian Motion (GBM)** to model continuous-time price paths.
-  - **Risk Analysis:**
-  - `Day_5_Monte_Carlo_Simulation.ipynb`: Uses **Monte Carlo methods** to simulate thousands of market scenarios and calculate VaR (Value at Risk).
-- **Theory:** `Reflection_ What Does Randomness Tell Us About Risk.pdf`.
+  - **`Day_3_GBM_Plots.ipynb`**: Implementation of **Geometric Brownian Motion (GBM)** to generate continuous-time random walk price paths for simulated assets.
+  - **`Day_5_Monte_Carlo_Simulation.ipynb`**: Utilization of **Monte Carlo methods** to simulate thousands of market scenarios, analyzing probability distributions and Value at Risk (VaR).
+- **Theoretical Analysis:**
+  - **`Reflection_ What Does Randomness Tell Us About Risk.pdf`**: A theoretical essay deriving insights from the Week 0 simulations.
+- **Setup:** Initial environment configuration in `Day_1.ipynb` and `Day_2.ipynb`.
 
-### Week 1: System Architecture & Exchange Design
+### 🔹 Week 1: System Architecture & Exchange Design
 
-_Focus: Software engineering, concurrency, and UML design._
+_Focus: Software engineering, concurrency models, and UML blueprints._
 
-This week bridges the gap between theory and software architecture. It includes the simulation's "Blueprints."
+This week defines the "Blueprint" of the simulated exchange, bridging the gap between math and software engineering.
 
-- **The Blueprint (UML Diagrams):**
-  - **Structure:** `CLASS DIAGRAM.png`, `COMPONENT DIAGRAM.png`, `DEPLOYMENT DIAGRAM.png`.
-  - **Behavior:** `SEQUENCE DIAGRAM (Order Matching Process).png` and `STATE DIAGRAM (Order Lifecycle).png`.
-  - **Concurrency & Threading:** Extensive documentation on how the simulator handles multiple operations simultaneously, including `UML Component Diagram - Thread Communication.png` and `UML State Machine Diagram - Thread Lifecycle.png`.
-- **Design Rationale:**
-  - `Short Memo_ How My Simulator Mimics a Real Exchange.pdf`.
+- **Architecture Documentation (`/Architecture Diagrams`)**:
+  - **Structural Design**: `CLASS DIAGRAM.png`, `COMPONENT DIAGRAM.png`, and `DEPLOYMENT DIAGRAM.png`.
+  - **Behavioral Logic**:
+    - `SEQUENCE DIAGRAM (Order Matching Process).png`: Visualizes the step-by-step logic of matching a buy order with a sell order.
+    - `STATE DIAGRAM (Order Lifecycle).png`: Tracks an order from submission to execution or cancellation.
+  - **Concurrency & Threading**:
+    - Detailed modelling of thread safety and parallel processing, including `UML Component Diagram - Thread Communication.png` and `UML State Machine Diagram - Thread Lifecycle.png`.
+- **Design Rationale**:
+  - `Short Memo_ How My Simulator Mimics a Real Exchange.pdf`: Justification of design choices against real-world market mechanics.
+- **Code Iterations**: Daily Jupyter notebooks (`Day 2 Code.ipynb` through `Day 5 Code.ipynb`) and accompanying PDF explanations documenting the incremental build of the matching logic.
 
-### Week 2: The Market Simulation Package
+### 🔹 Week 2: The Market Simulation Package (Core Deliverable)
 
-_Focus: Implementation of the Agent-Based Simulator (ABM)._
+_Focus: Implementation of the Agent-Based Simulator (ABM) and Analysis._
 
-This is the core software deliverable, located in `/Week 2 Final Deliverables/market_simulation`. It is a modular Python package.
+The core logic is modularized into a Python package located in **`/Week 2 Final Deliverables/market_simulation`**.
 
 #### 1. The Engine (`/engine`)
 
-The heart of the exchange logic.
+The central processing unit of the exchange.
 
-- **`matching_engine.py`**: The core algorithm that maintains the Limit Order Book (LOB) and matches Buy/Sell orders based on **Price-Time Priority**.
-- **`event_loop.py`**: Manages the discrete simulation clock, ensuring agents act in the correct sequence.
+- **`matching_engine.py`**: The core algorithm that maintains the Limit Order Book (LOB). It executes orders based on **Price-Time Priority**.
+- **`event_loop.py`**: Manages the discrete simulation clock, ensuring agents act in the correct sequence without look-ahead bias.
 
 #### 2. Autonomous Agents (`/agents`)
 
-The simulation is populated by different types of traders:
+The simulation is populated by distinct trading algorithms:
 
-- **`market_maker_agent.py`**: Provides liquidity by constantly posting bid and ask limit orders.
-- **`momentum_agent.py`**: A trend-following agent that trades based on recent price velocity.
-- **`noise_agent.py`**: Simulates retail order flow by placing random trades, adding "noise" to the system.
-- **`base_agent.py`**: The abstract base class defining the standard interface for all agents.
+- **`market_maker_agent.py`**: Provides liquidity by maintaining a two-sided quote (bid and ask) to capture the spread.
+- **`momentum_agent.py`**: A trend-following strategy that executes trades based on recent price velocity.
+- **`noise_agent.py`**: Simulates retail/random order flow to create market noise and liquidity consumption.
+- **`base_agent.py`**: The abstract base class defining the interface for all trading entities.
 
-#### 3. Analytics & Tape (`/analytics`)
+#### 3. Analytics & Visualization (`/analytics`, `/visualization`)
 
-- **`tape.py`**: Functions as the "Ticker Tape," recording every executed trade in real-time.
-- **`metrics.py`**: Calculates market quality indicators such as volatility, spread width, and volume.
-- **`snapshots.py`**: Captures the state of the Order Book at specific timestamps for replay or debugging.
+- **`tape.py`**: Acts as the "Ticker Tape," recording every trade execution in real-time.
+- **`metrics.py`**: Computes post-simulation market quality indicators (volatility, spread width, trade volume).
+- **`snapshots.py`**: Captures the state of the Order Book at specific timestamps for debugging and replay.
+- **`plotter.py`**: Generates financial charts from the simulation data.
 
-#### 4. C++ Optimization (`/Day 2`)
+#### 4. C++ Optimization (`/Week 2/Day 2`)
 
-- **`orderbook.cpp`**: A C++ implementation of the Order Book data structure. This suggests a hybrid approach where latency-critical components were optimized using C++ for higher performance.
+To optimize latency-critical components, parts of the system were implemented in C++.
+
+- **`orderbook.cpp`**: A C++ implementation of the Order Book data structure, demonstrating performance optimization capabilities.
+
+### 🔹 Week 3: Extended Analysis
+
+_Focus: Refinement and extended testing._
+
+- Contains notebooks `Day 1.ipynb` through `Day 11.ipynb`, likely used for extended scenario testing, parameter tuning, and final refinements of the simulation logic.
 
 ---
 
-## How to Run the Simulator
+## 🚀 Installation & Usage
 
 ### Prerequisites
 
-- Python 3.8+
-- C++ Compiler (for `orderbook.cpp` integration)
-- Required Libraries: `pandas`, `numpy`, `matplotlib`.
+- **Python 3.8+**
+- **C++ Compiler** (GCC/Clang for `orderbook.cpp`)
+- **Dependencies**: `numpy`, `pandas`, `matplotlib` (Inferred from visualization files).
 
-### Execution
+### How to Run the Simulator
 
-1.  **Clone the Repository:**
+1.  **Clone the Repository**:
     ```bash
     git clone https://github.com/arattrika-dey-ad/Citadel-The-Algorithmic-Black-Box-WiDS-5.0-
     ```
-2.  **Navigate to the Final Deliverables:**
+2.  **Navigate to the Final Simulation Package**:
     ```bash
     cd "Citadel-The-Algorithmic-Black-Box-WiDS-5.0-/Week 2/Week 2 Final Deliverables"
     ```
-3.  **Run the Main Simulation Script:**
-    This script initializes the engine, spawns agents, and runs the market loop.
+3.  **Execute the Main Simulation**:
+    Run the entry point script to launch the simulation scenarios.
 
     ```bash
     python market_simulation/run_simulation.py
     ```
 
-4.  **Run Unit Tests:**
-    To verify the matching logic is working correctly:
+    _(See Source)_
+
+4.  **Run Unit Tests**:
+    Verify the integrity of the matching engine.
     ```bash
     python -m unittest market_simulation/tests/test_matching_engine.py
     ```
+    _(See Source)_
 
 ---
 
-## Outputs & Visualization
+## Outputs & Scenarios
 
-The simulator automatically generates reports and visual analysis of the market session. You can find these in the `Week 2 Final Deliverables` folder:
+The simulation generates data for multiple market scenarios (Scenario A, B, C), producing the following artifacts in the `Final Deliverables` folder:
 
-- **Financial Reports:** `simulation_report.pdf`.
-- **Data Exports:** `market_pipeline_results.json` and `scenario_comparison.csv`.
-- **Visualizations:**
-  - **Price Action:** `scenario_A_candlestick.png`.
-  - **Liquidity:** `scenario_B_spread.png` (Bid-Ask Spread visualization).
-  - **Agent Performance:** `scenario_C_portfolios.png` (PnL tracking over time).
+- **Financial Reports**:
+  - **`simulation_report.pdf`**: The comprehensive final analysis of the simulation results.
+  - **`market_pipeline_results.json`**: Raw data export of the simulation metrics.
+  - **`scenario_comparison.csv`**: Comparative data between different agent configurations.
+
+- **Visualizations**:
+  - **Price Action**: `scenario_A_candlestick.png`.
+  - **Liquidity Analysis**: `scenario_B_spread.png` (Bid-Ask Spread over time).
+  - **Agent Performance**: `scenario_C_portfolios.png` (PnL tracking for Market Makers vs Momentum Agents).
 
 ---
+
+## 🛠 System Design & Concurrency
+
+The project places a heavy emphasis on realistic system architecture. Refer to the **Week 1/Architecture Diagrams** folder for:
+
+- **Concurrency Models**: How the exchange handles multiple incoming order streams.
+- **Data Flow**: How orders move from Agents -> Event Loop -> Matching Engine -> Tape.
+
+---
+````
