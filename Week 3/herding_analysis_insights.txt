@@ -1,0 +1,32 @@
+=== BEHAVIORAL HERDING ANALYSIS RESULTS ===
+
+**Herding Detected**: 1 episodes
+  - Total herding duration: 5 periods
+  - Average episode length: 5.0 periods
+  - Maximum correlation reached: 0.736
+
+**Primary Herding Triggers**:
+  - Stress Increases: 1 episodes (100%)
+
+**Market Regime Analysis**:
+  - Normal regime: 13.2% of time
+  - Stress regime: 52.6% of time
+  - Herding regime: 34.2% of time
+  - Regime transitions: 7
+
+**Market Fragility Assessment**:
+  - Correlation persistence: 0.952
+  - Regime instability: 0.092
+  - Average recovery time: 6.0 periods
+  - Fragility index: 0.005
+
+**Behavioral Insights**:
+1. **Herding Onset**: Begins at period 23 with 0.736 correlation
+   - Triggered by stress level of 0.304
+   - Associated price change: -7.5%
+2. **Reversibility**: Herding is reversible (avg recovery: 6.0 periods)
+   - Market shows resilience with quick return to normal correlation
+3. **Agent Role**: Trend-followers show highest correlation spike
+   - Trend-following agents are primary herding drivers
+
+=== END ANALYSIS ===
