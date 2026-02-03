@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This repository contains the official solution for the **WiDS 5.0 Datathon Challenge: "Citadel: The Algorithmic Black Box"**.
+This repository contains the official solution for the **WiDS 5.0 Challenge: "Citadel: The Algorithmic Black Box"**.
 
 The project is a full-stack financial market simulator designed to model market microstructure, order book dynamics, and algorithmic trading strategies. The development journey tracks the evolution from theoretical stochastic modelling to a high-performance, event-driven exchange simulator implemented in **Python** with **C++** optimizations.
 
