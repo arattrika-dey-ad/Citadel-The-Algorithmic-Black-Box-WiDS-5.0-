@@ -114,14 +114,11 @@ _Focus: Refinement and extended testing._
     python market_simulation/run_simulation.py
     ```
 
-    _(See Source)_
-
 4.  **Run Unit Tests**:
     Verify the integrity of the matching engine.
     ```bash
     python -m unittest market_simulation/tests/test_matching_engine.py
     ```
-    _(See Source)_
 
 ---
 
